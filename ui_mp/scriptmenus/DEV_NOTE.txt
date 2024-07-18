@@ -1,0 +1,11 @@
+class.m
+
+line 44 down backup
+
+REDUX_SEPARATOR( 6.5 )
+REDUX_BUTTON_VIS( 6.75, "END GAME", open "popup_endgame";, dvarBool( "sv_running" ) )
+REDUX_BUTTON_VIS( 6.75, "LEAVE GAME", open "popup_leavegame";, !dvarBool( "sv_running" ) )
+REDUX_BUTTON( 7.75, "QUIT TO DESKTOP", open "quit_popmenu"; )
+
+
+IDK IF QUIT TO DESKTOP IS BROKE

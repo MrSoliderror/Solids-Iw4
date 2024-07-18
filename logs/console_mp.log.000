@@ -1,0 +1,2717 @@
+[      6057] '+ set fs_game "mods/Solids-Iw4"'
+[      6057] Build 0.7.2 latest May 10 2022 19:46:24. Logfile opened on Tue May 24 17:11:08 2022
+
+[      6057] Current language: english
+[      6057] Current search path:
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\solids_iw4_ui_v3.iwd (110 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\remastered_bot_ai.iwd (123 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\redux.iwd (54 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/mods/solids-iw4
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/userraw
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_01.iwd (114 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_00.iwd (649 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/iw4x
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc8_00.iwd (2070 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc7_00.iwd (829 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc6_00.iwd (711 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_01.iwd (196 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_00.iwd (1986 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_01.iwd (274 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_00.iwd (1186 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc3_00.iwd (1350 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_23.iwd (425 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_22.iwd (430 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_21.iwd (46 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_20.iwd (86 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_19.iwd (57 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_18.iwd (61 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_17.iwd (125 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_16.iwd (171 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_15.iwd (198 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_14.iwd (406 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_13.iwd (63 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_12.iwd (31 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_11.iwd (297 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_10.iwd (556 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_09.iwd (716 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_08.iwd (886 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_07.iwd (782 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_06.iwd (481 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_05.iwd (952 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_04.iwd (1005 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_03.iwd (1437 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_02.iwd (1391 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_01.iwd (1272 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_00.iwd (1428 files)
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/main
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/main_shared
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/players
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/raw
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/raw_shared
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw
+[      6057] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw_shared
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw07.iwd (860 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw06.iwd (1474 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw05.iwd (1635 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw04.iwd (2164 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw03.iwd (2741 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw02.iwd (2732 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw01.iwd (2524 files)
+[      6058]     localized assets iwd file for english
+[      6058] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw00.iwd (3013 files)
+[      6058]     localized assets iwd file for english
+[      6058] 
+File Handles:
+[      6058] handle 1: logs/console_mp.log
+[      6058] ----------------------
+[      6058] 40097 files in iwd files
+[      6121] Adding channel: error
+[      6121] Adding channel: gamenotify
+[      6121] Adding channel: boldgame
+[      6121] Adding channel: subtitle
+[      6121] Adding channel: obituary
+[      6121] Adding channel: logfile_only
+[      6121] Adding channel: console_only
+[      6121] Adding channel: gfx
+[      6121] Adding channel: sound
+[      6121] Adding channel: files
+[      6121] Adding channel: devgui
+[      6121] Adding channel: profile
+[      6121] Adding channel: ui
+[      6121] Adding channel: client
+[      6121] Adding channel: server
+[      6121] Adding channel: system
+[      6121] Adding channel: playerweap
+[      6121] Adding channel: ai
+[      6121] Adding channel: anim
+[      6121] Adding channel: physics
+[      6121] Adding channel: fx
+[      6121] Adding channel: leaderboards
+[      6121] Adding channel: parserscript
+[      6121] Adding channel: script
+[      6121] Adding channel: network
+[      6121] No channels added or hidden
+[      6121] Adding channel: error
+[      6121] Adding channel: error
+[      6121] No channels added or hidden
+[      6121] Adding channel: gamenotify
+[      6121] Adding channel: obituary
+[      6121] No channels added or hidden
+[      6121] Adding channel: boldgame
+[      6121] No channels added or hidden
+[      6121] Adding channel: subtitle
+[      6121] No channels added or hidden
+[      6128] Loading fastfile code_pre_gfx_mp
+[      6128] Loading fastfile localized_code_pre_gfx_mp
+[      6128] Loading fastfile patch_code_pre_gfx_mp
+[      6289] execing default_mp.cfg from disk
+[      6289] execing default_mp_controls.cfg from disk
+[      6291] execing default_mp_controller.cfg from disk
+[      6291] No channels added or hidden
+[      6293] execing default_mp_gamesettings.cfg from disk
+[      6296] execing default_filter.cfg from disk
+[      6297] execing language.cfg from fastfile
+[      6341] execing iw4x_config.cfg from disk
+[      6344] Hiding channel: error
+[      6344] Hiding channel: gamenotify
+[      6344] Hiding channel: boldgame
+[      6344] Hiding channel: subtitle
+[      6344] Hiding channel: obituary
+[      6344] Hiding channel: logfile_only
+[      6344] Hiding channel: console_only
+[      6344] Hiding channel: gfx
+[      6344] Hiding channel: sound
+[      6344] Hiding channel: files
+[      6344] Hiding channel: devgui
+[      6344] Hiding channel: profile
+[      6344] Hiding channel: ui
+[      6344] Hiding channel: client
+[      6344] Hiding channel: server
+[      6344] Hiding channel: system
+[      6344] Hiding channel: playerweap
+[      6344] Hiding channel: ai
+[      6344] Hiding channel: anim
+[      6344] Hiding channel: physics
+[      6344] Hiding channel: fx
+[      6345] Hiding channel: leaderboards
+[      6345] Hiding channel: parserscript
+[      6345] Hiding channel: script
+[      6345] Hiding channel: network
+[      6345] No channels added or hidden
+[      6345] Adding channel: error
+[      6345] Adding channel: gamenotify
+[      6345] Adding channel: boldgame
+[      6345] Adding channel: subtitle
+[      6345] Adding channel: obituary
+[      6345] Adding channel: logfile_only
+[      6345] Adding channel: console_only
+[      6345] Adding channel: gfx
+[      6345] Adding channel: sound
+[      6345] Adding channel: files
+[      6345] Adding channel: devgui
+[      6345] Adding channel: profile
+[      6345] Adding channel: ui
+[      6345] Adding channel: client
+[      6345] Adding channel: server
+[      6345] Adding channel: system
+[      6345] Adding channel: playerweap
+[      6345] Adding channel: ai
+[      6345] Adding channel: anim
+[      6345] Adding channel: physics
+[      6345] Adding channel: fx
+[      6345] Adding channel: leaderboards
+[      6345] Adding channel: parserscript
+[      6345] Adding channel: script
+[      6345] Adding channel: network
+[      8048] Parsing playlist 'playlists_default.info'...
+[      8066] CPU vendor is "AuthenticAMD"
+[      8066] CPU name is "AMD A10-5745M APU with Radeon(tm) HD Graphics  "
+[      8066] 4 logical CPUs reported
+[      8066] 4 physical CPUs detected
+[      8066] Measured CPU speed is 2.10 GHz
+[      8066] Total CPU performance is estimated as 6.09 GHz
+[      8066] System memory is 2048 MB (capped at 2 GB)
+[      8066] Video card is "AMD Radeon(TM) HD 8610G"
+[      8066] Streaming SIMD Extensions (SSE) supported
+[      8066] 
+[      8098] Winsock Initialized
+[      8098] Opening IP socket: localhost:28960
+[      8113] Hostname: DESKTOP-D17HFLU
+[      8113] IP: 192.168.1.212
+[      8113] UPNP: Testing device 'urn:schemas-upnp-org:device:InternetGatewayDevice:1' by sending packet to 239.255.255.250:1900
+[      8114] UPNP: Testing device 'urn:schemas-upnp-org:service:WANIPConnection:1' by sending packet to 239.255.255.250:1900
+[      8114] UPNP: Testing device 'urn:schemas-upnp-org:service:WANPPPConnection:1' by sending packet to 239.255.255.250:1900
+[      8114] UPNP: Testing device 'upnp:rootdevice' by sending packet to 239.255.255.250:1900
+[      8114] ----- Initializing Renderer ----
+[      8365] Cmd_AddCommand: log_add already defined
+[      8368] Cmd_AddCommand: log_del already defined
+[      8369] Cmd_AddCommand: log_list already defined
+[      8370] Cmd_AddCommand: g_log_add already defined
+[      8370] Cmd_AddCommand: g_log_del already defined
+[      8372] Cmd_AddCommand: g_log_list already defined
+[      8373] Cmd_AddCommand: muteClient already defined
+[      8376] Cmd_AddCommand: unmute already defined
+[      8391] execing ragdoll.cfg from fastfile
+[      8395] ----- Client Initialization -----
+[      8410] ----- Client Initialization Complete -----
+[      8446] Attempting 44 kHz 16 bit [Windows default] sound
+[      8615] UPNP: Got a response from a device!
+[      8615] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: upnp:rootdevice
+USN: uuid:00000000-0000-0000-0000-000000000000::upnp:rootdevice
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+'âäxwØL1Dû– ­w'Äá‡þÿÿÿðú–,nwŒ'
+[      8615] UPNP: Got a response from a device!
+[      8615] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:00000000-0000-0000-0000-000000000000::urn:schemas-upnp-org:service:WANPPPConnection:1
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+G1ØL1àæR
+'
+[      8615] UPNP: Got a response from a device!
+[      8615] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:00000000-0000-0000-0000-000000000000::urn:schemas-upnp-org:service:WANIPConnection:1
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+
+G1ØL1àæR
+'
+[      8615] UPNP: Got a response from a device!
+[      8615] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:00000000-0000-0000-0000-000000000000::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+æR
+'
+[      9041] ----- R_Init -----
+[      9043] Getting Direct3D 9 interface...
+[      9189] Pixel shader version is 3.0
+[      9189] Vertex shader version is 3.0
+[      9189] Shader model 3.0 code path is available.
+[      9189] Using Shader model 3.0 code path because it is the best available path on this hardware.
+[      9204] Attempting 1360 x 768 fullscreen with 32 bpp at 60 hz
+[      9208] Game window successfully created.
+[      9338] Using 2x quality 0 anti-aliasing
+[      9338] Creating Direct3D device...
+[      9644] Com_TouchMemory: 0 msec. Using sum: 0
+[     10130] UPNP: Got a response from a device!
+[     10130] UPNP: Got response 'HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+ST: upnp:rootdevice
+USN: uuid:28000040-0000-1000-8002-d4abcd04d975::upnp:rootdevice
+Ext: 
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+LOCATION: http://192.168.1.70:8060/
+WAKEUP: MAC=d4:ab:cd:04:d9:75;Timeout=10
+
+N: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+æR
+'
+[     10790] Loading fastfile code_post_gfx_mp
+[     10791] Loading fastfile localized_code_post_gfx_mp
+[     10791] Loading fastfile patch_mp
+[     10791] Loading fastfile iw4x_code_post_gfx_mp
+[     11144] UPNP: Got a response from a device!
+[     11144] UPNP: Got response 'HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+ST: upnp:rootdevice
+USN: uuid:28001000-0000-1000-8005-84eaed6abf9c::upnp:rootdevice
+Ext: 
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+LOCATION: http://192.168.1.222:8060/
+
+EUP: MAC=d4:ab:cd:04:d9:75;Timeout=10
+
+N: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+æR
+'
+[     12010] Loading fastfile localized_ui_mp
+[     12010] Loading fastfile ui_mp
+[     12010] Loading fastfile common_mp
+[     12010] Loading fastfile localized_common_mp
+[     12010] Loading fastfile iw4x_patch_mp
+[     12010] Loading fastfile mod
+[     12010] Loading fastfile iw4x_ui_mp
+[     12010] Loading fastfile iw4x_localized_english
+[     12010] Initializing render targets...
+[     12011] Requested frame buffer to be 24-bit color with 8-bit alpha
+[     12011] DirectX returned a frame buffer that is 24-bit color with 8-bit alpha
+[     12019] Initializing static model cache...
+[     12020] Initializing dynamic buffers...
+[     12020] Initializing particle cloud buffer...
+[     12337] Creating Direct3D queries...
+[     12380] Setting initial state...
+[     12595] Video memory for device: 736 MB.
+[     12596] Rounded video memory size: 512 MB.
+[     12596] Available DirectX texture memory: 4020 MB.
+[     12596] DirectX reports 512 MB of video memory and 4020 MB of available texture memory.
+[     12596] Using video memory size to cap used texture memory at 496 MB.
+[     12596] Using reported available texture memory: 496 MB.
+[     12596] Texture detail is set automatically.
+[     12596] Using picmip 0 on most textures, 1 on normal maps, and 3 on specular maps
+[     12647] UPnP device :
+ desc: http://192.168.1.1:43460/rootDesc.xml
+ st: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+[     12683] 
+------- sound system initialization -------
+[     12683] ------- sound system successfully initialized -------
+[     12896] GamerProfile - Updating for controller #0 without saving.
+
+[     12896] Reading profile for controller 0
+[     12897] Pipe successfully created
+[     12931] GamerProfile - Updating for controller #0 without saving.
+
+[     12931] --- Common Initialization Complete ---
+[     12931] =============================== DVAR DUMP ========================================
+[     12934]       actionSlotsHide "0"
+[     12934]       activeAction ""
+[     12934]       ai_corpseCount "16"
+[     12934]       aim_accel_turnrate_debug "0"
+[     12934]       aim_accel_turnrate_enabled "1"
+[     12934]       aim_accel_turnrate_lerp "1200"
+[     12934]       aim_aimAssistRangeScale "1"
+[     12934]       aim_autoaim_debug "0"
+[     12934]       aim_autoaim_enabled "0"
+[     12934]       aim_autoaim_lerp "40"
+[     12934]       aim_autoaim_region_height "120"
+[     12934]       aim_autoaim_region_width "160"
+[     12934]       aim_autoAimRangeScale "1"
+[     12934]       aim_automelee_debug "0"
+[     12934]       aim_automelee_enabled "1"
+[     12934]       aim_automelee_lerp "40"
+[     12934]       aim_automelee_range "128"
+[     12934]       aim_automelee_region_height "240"
+[     12934]       aim_automelee_region_width "320"
+[     12934]       aim_input_graph_debug "0"
+[     12934]       aim_input_graph_enabled "1"
+[     12934]       aim_input_graph_index "3"
+[     12934]       aim_lockon_debug "0"
+[     12934]       aim_lockon_deflection "0.05"
+[     12934]       aim_lockon_enabled "1"
+[     12934]       aim_lockon_pitch_strength ""
+[     12934]       aim_lockon_region_height "90"
+[     12934]       aim_lockon_region_width "90"
+[     12934]       aim_lockon_strength "0.6"
+[     12934]       aim_scale_view_axis "1"
+[     12934]       aim_slowdown_debug "0"
+[     12934]       aim_slowdown_enabled "1"
+[     12934]       aim_slowdown_pitch_scale "0.4"
+[     12934]       aim_slowdown_pitch_scale_ads "0.5"
+[     12934]       aim_slowdown_region_height "90"
+[     12934]       aim_slowdown_region_width "90"
+[     12934]       aim_slowdown_yaw_scale "0.4"
+[     12934]       aim_slowdown_yaw_scale_ads "0.5"
+[     12934]       aim_turnrate_pitch "90"
+[     12935]       aim_turnrate_pitch_ads "55"
+[     12935]       aim_turnrate_yaw "260"
+[     12935]       aim_turnrate_yaw_ads "90"
+[     12935]       ammoCounterHide "0"
+[     12935]       authPort "20800"
+[     12935]       authServerName "cod4master.activision.com"
+[     12935]       badhost_debug "0"
+[     12935]       badhost_endGameIfISuck "1"
+[     12935]       badhost_maxDoISuckFrames "300"
+[     12935]       badhost_maxHappyPingTime "400"
+[     12935]       badhost_minPercentClientsUnhappyToSuck "0.51"
+[     12935]       badhost_minTotalClientsForHappyTest "3"
+[     12935]       band_12players "384000"
+[     12935]       band_18players "580000"
+[     12935]       band_2players "64000"
+[     12935]       band_4players "128000"
+[     12935]       band_8players "256000"
+[     12935]       bandwidthtest_announceinterval "200"
+[     12935]       bandwidthtest_duration "500"
+[     12935]       bandwidthtest_enable "1"
+[     12935]       bandwidthtest_fudge "1"
+[     12935]       bandwidthtest_ingame_enable "1"
+[     12935]       bandwidthtest_ingame_fudge "1"
+[     12935]       bandwidthtest_maxpacketsize "1000"
+[     12935]       bandwidthtest_quota "0.5"
+[     12935]       bandwidthtest_rounds "10"
+[     12935]       bandwidthtest_scalar "2"
+[     12935]       bandwidthtest_timeout "1500"
+[     12935]       bg_aimSpreadMoveSpeedThreshold "11"
+[     12935]       bg_bounces "disabled"
+[     12935]       bg_bouncesAllAngles "0"
+[     12935]       bg_bulletExplDmgFactor "1"
+[     12935]       bg_bulletExplRadius "250"
+[     12935]       bg_bulletRange "8192"
+[     12935]       bg_debugProne "0"
+[     12935]       bg_elevators "normal"
+[     12935]       bg_fallDamageMaxHeight "300"
+[     12935]       bg_fallDamageMinHeight "128"
+[     12935]       bg_foliagesnd_fastinterval "500"
+[     12935]       bg_foliagesnd_maxspeed "180"
+[     12935]       bg_foliagesnd_minspeed "40"
+[     12936]       bg_foliagesnd_resetinterval "500"
+[     12936]       bg_foliagesnd_slowinterval "1500"
+[     12936]       bg_forceDualWield "0"
+[     12936]       bg_forceExplosiveBullets "0"
+[     12936]       bg_ladder_yawcap "100"
+[     12936]       bg_legYawTolerance "20"
+[     12936]       bg_lowGravity "800"
+[     12936]       bg_maxGrenadeIndicatorSpeed "100"
+[     12936]       bg_playerCollision "1"
+[     12936]       bg_playerEjection "1"
+[     12936]       bg_prone_yawcap "85"
+[     12936]       bg_rocketJump "0"
+[     12936]       bg_shieldHitEncodeHeightVM "-10 10"
+[     12936]       bg_shieldHitEncodeHeightWorld "-25 20"
+[     12936]       bg_shieldHitEncodeWidthVM "-16 16"
+[     12936]       bg_shieldHitEncodeWidthWorld "-14 14"
+[     12936]       bg_shock_lookControl "1"
+[     12936]       bg_shock_lookControl_fadeTime "2"
+[     12936]       bg_shock_lookControl_maxpitchspeed "90"
+[     12936]       bg_shock_lookControl_maxyawspeed "90"
+[     12936]       bg_shock_lookControl_mousesensitivityscale "0.5"
+[     12936]       bg_shock_movement "1"
+[     12936]       bg_shock_screenBlurBlendFadeTime "1"
+[     12936]       bg_shock_screenBlurBlendTime "0.4"
+[     12936]       bg_shock_screenFlashShotFadeTime "1"
+[     12936]       bg_shock_screenFlashWhiteFadeTime "1"
+[     12936]       bg_shock_screenType "blurred"
+[     12936]       bg_shock_sound "1"
+[     12936]       bg_shock_soundDryLevel "1"
+[     12936]       bg_shock_soundEnd "shellshock_end"
+[     12936]       bg_shock_soundEndAbort "shellshock_end_abort"
+[     12936]       bg_shock_soundFadeInTime "0.25"
+[     12936]       bg_shock_soundFadeOutTime "2.5"
+[     12936]       bg_shock_soundLoop "shellshock_loop"
+[     12936]       bg_shock_soundLoopEndDelay "-3"
+[     12936]       bg_shock_soundLoopFadeTime "1.5"
+[     12936]       bg_shock_soundLoopSilent "shellshock_loop_silent"
+[     12936]       bg_shock_soundModEndDelay "2"
+[     12936]       bg_shock_soundRoomType "generic"
+[     12936]       bg_shock_soundWetLevel "0.5"
+[     12936]       bg_shock_viewKickFadeTime "3"
+[     12936]       bg_shock_viewKickPeriod "0.75"
+[     12936]       bg_shock_viewKickRadius "0.05"
+[     12936]       bg_shock_volume_ambdist1 "0.5"
+[     12936]       bg_shock_volume_ambdist2 "0.5"
+[     12936]       bg_shock_volume_ambient "0.5"
+[     12936]       bg_shock_volume_announcer "0.5"
+[     12936]       bg_shock_volume_auto "0.5"
+[     12936]       bg_shock_volume_auto2 "0.5"
+[     12936]       bg_shock_volume_auto2d "0.5"
+[     12936]       bg_shock_volume_autodog "0.5"
+[     12936]       bg_shock_volume_body "0.5"
+[     12936]       bg_shock_volume_body2d "0.5"
+[     12936]       bg_shock_volume_bulletimpact "0.5"
+[     12936]       bg_shock_volume_bulletwhizby "0.5"
+[     12936]       bg_shock_volume_effects1 "0.5"
+[     12936]       bg_shock_volume_effects2 "0.5"
+[     12936]       bg_shock_volume_element "0.5"
+[     12936]       bg_shock_volume_explosiveimpact "0.5"
+[     12936]       bg_shock_volume_hurt "0.5"
+[     12936]       bg_shock_volume_item "0.5"
+[     12936]       bg_shock_volume_local "0.5"
+[     12936]       bg_shock_volume_local2 "0.5"
+[     12936]       bg_shock_volume_local3 "0.5"
+[     12936]       bg_shock_volume_menu "0.5"
+[     12936]       bg_shock_volume_mission "0.5"
+[     12936]       bg_shock_volume_music "0.5"
+[     12936]       bg_shock_volume_musicnopause "0.5"
+[     12936]       bg_shock_volume_nonshock "0.5"
+[     12936]       bg_shock_volume_physics "0.5"
+[     12936]       bg_shock_volume_player1 "0.5"
+[     12936]       bg_shock_volume_player2 "0.5"
+[     12936]       bg_shock_volume_reload "0.5"
+[     12936]       bg_shock_volume_reload2d "0.5"
+[     12936]       bg_shock_volume_shellshock "0.5"
+[     12936]       bg_shock_volume_vehicle "0.5"
+[     12936]       bg_shock_volume_vehiclelimited "0.5"
+[     12936]       bg_shock_volume_voice "0.5"
+[     12936]       bg_shock_volume_weapon "0.5"
+[     12937]       bg_shock_volume_weapon2d "0.5"
+[     12937]       bg_softLandingMaxDamage "0.1"
+[     12937]       bg_softLandingMaxHeight "300"
+[     12937]       bg_softLandingMinHeight "128"
+[     12937]       bg_surfacePenetration "0"
+[     12937]       bg_swingSpeed "0.2"
+[     12937]       bg_viewBobAmplitudeBase "0.16"
+[     12937]       bg_viewBobAmplitudeDucked "0.0075 0.0075"
+[     12937]       bg_viewBobAmplitudeDuckedAds "0.0075 0.0075"
+[     12937]       bg_viewBobAmplitudeProne "0.02 0.005"
+[     12937]       bg_viewBobAmplitudeRoll "1.5"
+[     12937]       bg_viewBobAmplitudeSprinting "0.02 0.014"
+[     12937]       bg_viewBobAmplitudeStanding "0.007 0.007"
+[     12937]       bg_viewBobAmplitudeStandingAds "0.007 0.007"
+[     12937]       bg_viewBobLag "0.25"
+[     12937]       bg_viewBobMax "8"
+[     12937]       bg_viewKickMax "90"
+[     12937]       bg_viewKickMin "5"
+[     12937]       bg_viewKickRandom "0.4"
+[     12937]       bg_viewKickScale "0.2"
+[     12937]       bg_weaponBobAmplitudeBase "0.16"
+[     12937]       bg_weaponBobAmplitudeDucked "0.045 0.025"
+[     12937]       bg_weaponBobAmplitudeProne "0.02 0.005"
+[     12937]       bg_weaponBobAmplitudeRoll "1.5"
+[     12937]       bg_weaponBobAmplitudeSprinting "0.02 0.014"
+[     12937]       bg_weaponBobAmplitudeStanding "0.055 0.025"
+[     12937]       bg_weaponBobLag "0.25"
+[     12937]       bg_weaponBobMax "8"
+[     12937]       bullet_penetration_enabled "1"
+[     12937]       bullet_penetrationMinFxDist "30"
+[     12937]       bullet_ricochetBaseChance "0.5"
+[     12937]       camera_thirdPerson "0"
+[     12937]       camera_thirdPersonAdsTransScale "2"
+[     12937]       camera_thirdPersonCrosshairOffset "0.35"
+[     12937]       camera_thirdPersonFovScale "0.9"
+[     12937]       camera_thirdPersonOffset "-120 0 14"
+[     12937]       camera_thirdPersonOffsetAds "-60 -20 4"
+[     12937]       camera_thirdPersonOffsetTurretAds "-80 0 14"
+[     12937]       cameraShakeRemoteHelo_Angles "0.221 0.15 2"
+[     12937]       cameraShakeRemoteHelo_Freqs "31 90 0.5"
+[     12937]       cameraShakeRemoteHelo_SpeedRange "2000 5000"
+[     12937]       cameraShakeRemoteMissile_Angles "0.05 0.7 0.07"
+[     12937]       cameraShakeRemoteMissile_Freqs "42 0.7 100"
+[     12937]       cameraShakeRemoteMissile_SpeedRange "1000 4000"
+[     12937]       cg_airstrikeKillCamCloseXYDist "24"
+[     12937]       cg_airstrikeKillCamCloseZDist "24"
+[     12937]       cg_airstrikeKillCamFarBlur "2"
+[     12937]       cg_airstrikeKillCamFarBlurDist "300"
+[     12937]       cg_airstrikeKillCamFarBlurStart "100"
+[     12937]       cg_airstrikeKillCamFov "50"
+[     12937]       cg_airstrikeKillCamNearBlur "4"
+[     12937]       cg_airstrikeKillCamNearBlurEnd "100"
+[     12937]       cg_airstrikeKillCamNearBlurStart "0"
+[     12937]       cg_blood "1"
+[     12937]       cg_brass "1"
+[     12937]       cg_centertime "5"
+[     12937]       cg_chatHeight "4"
+[     12937]       cg_chatTime "12000"
+[     12937]       cg_chatWidth "52"
+[     12937]       cg_chatWithOtherTeams "0"
+[     12937]       cg_connectionIconSize "0"
+[     12937]       cg_constantSizeHeadIcons "0"
+[     12937]       cg_crosshairAlpha "1"
+[     12937]       cg_crosshairAlphaMin "0.5"
+[     12937]       cg_crosshairDynamic "0"
+[     12937]       cg_crosshairEnemyColor "1"
+[     12937]       cg_crosshairVerticalOffset "0"
+[     12937]       cg_cullBulletAngle "50"
+[     12937]       cg_cullBullets "1"
+[     12937]       cg_cursorHints "4"
+[     12937]       cg_deadChatWithDead "0"
+[     12937]       cg_deadChatWithTeam "0"
+[     12937]       cg_deadHearAllLiving "0"
+[     12937]       cg_deadHearTeamLiving "0"
+[     12937]       cg_debug_overlay_viewport "0"
+[     12937]       cg_debugevents "-1"
+[     12937]       cg_debugInfoCornerOffset "0 -30"
+[     12937]       cg_debugposition "0"
+[     12937]       cg_descriptiveText "1"
+[     12937]       cg_dobjdump "-1"
+[     12937]       cg_draw2D "1"
+[     12937]       cg_drawBreathHint "1"
+[     12937]       cg_drawCrosshair "1"
+[     12937]       cg_drawCrosshairNames "1"
+[     12938]       cg_drawCrosshairNamesPosX "300"
+[     12938]       cg_drawCrosshairNamesPosY "180"
+[     12938]       cg_drawDamageDirection "1"
+[     12938]       cg_drawDamageFlash "0"
+[     12938]       cg_drawFPS "Off"
+[     12938]       cg_drawFPSLabels "1"
+[     12938]       cg_drawFriendlyNames "1"
+[     12938]       cg_drawGun "1"
+[     12938]       cg_drawHealth "0"
+[     12938]       cg_drawMantleHint "1"
+[     12938]       cg_drawMaterial "Off"
+[     12938]       cg_drawpaused "1"
+[     12938]       cg_drawScriptUsage "0"
+[     12938]       cg_drawShellshock "1"
+[     12938]       cg_drawSnapshot "0"
+[     12938]       cg_drawSplatter "0"
+[     12938]       cg_drawSplatterTest "0"
+[     12938]       cg_drawStatsSource "0"
+[     12938]       cg_drawTalk "ALL"
+[     12938]       cg_drawThroughWalls "0"
+[     12938]       cg_drawTurretCrosshair "1"
+[     12938]       cg_drawVersion "0"
+[     12938]       cg_drawVersionX "10"
+[     12938]       cg_drawVersionY "455"
+[     12938]       cg_drawViewpos "0"
+[     12938]       cg_dumpAnims "-1"
+[     12938]       cg_enemyNameFadeIn "250"
+[     12938]       cg_enemyNameFadeOut "250"
+[     12938]       cg_errordecay "100"
+[     12938]       cg_everyoneHearsEveryone "0"
+[     12938]       cg_explosiveKillCamBackDist "35"
+[     12938]       cg_explosiveKillCamGroundBackDist "30"
+[     12938]       cg_explosiveKillCamGroundUpDist "15"
+[     12938]       cg_explosiveKillCamStopDecelDist "100"
+[     12938]       cg_explosiveKillCamStopDist "350"
+[     12938]       cg_explosiveKillCamUpDist "5"
+[     12938]       cg_explosiveKillCamWallOutDist "10"
+[     12938]       cg_explosiveKillCamWallSideDist "30"
+[     12938]       cg_flashbangNameFadeIn "1000"
+[     12938]       cg_flashbangNameFadeOut "50"
+[     12938]       cg_fontIconAutocomplete "1"
+[     12938]       cg_fontIconAutocompleteHint "1"
+[     12938]       cg_footsteps "1"
+[     12938]       cg_fov "65"
+[     12938]       cg_fovMin "1"
+[     12938]       cg_fovScale "1"
+[     12938]       cg_friendlyNameFadeIn "0"
+[     12938]       cg_friendlyNameFadeOut "1500"
+[     12939]       cg_gameBoldMessageWidth "390"
+[     12939]       cg_gameMessageWidth "455"
+[     12939]       cg_gun_x "0"
+[     12939]       cg_gun_y "0"
+[     12939]       cg_gun_z "0"
+[     12939]       cg_headIconMinScreenRadius "0.025"
+[     12939]       cg_heliKillCamFarBlur "2"
+[     12939]       cg_heliKillCamFarBlurDist "300"
+[     12939]       cg_heliKillCamFarBlurStart "100"
+[     12939]       cg_heliKillCamFov "15"
+[     12939]       cg_heliKillCamNearBlur "4"
+[     12939]       cg_heliKillCamNearBlurEnd "100"
+[     12939]       cg_heliKillCamNearBlurStart "0"
+[     12939]       cg_hintFadeTime "100"
+[     12939]       cg_hudChatIntermissionPosition "5 110"
+[     12939]       cg_hudChatPosition "5 200"
+[     12939]       cg_hudDamageIconHeight "64"
+[     12939]       cg_hudDamageIconInScope "0"
+[     12939]       cg_hudDamageIconOffset "128"
+[     12939]       cg_hudDamageIconTime "6000"
+[     12939]       cg_hudDamageIconWidth "128"
+[     12939]       cg_hudGrenadeIconEnabledFlash "0"
+[     12939]       cg_hudGrenadeIconHeight "25"
+[     12939]       cg_hudGrenadeIconInScope "0"
+[     12939]       cg_hudGrenadeIconMaxHeight "104"
+[     12939]       cg_hudGrenadeIconMaxRangeFlash "500"
+[     12939]       cg_hudGrenadeIconMaxRangeFrag "250"
+[     12939]       cg_hudGrenadeIconOffset "50"
+[     12939]       cg_hudGrenadeIconWidth "25"
+[     12939]       cg_hudGrenadePointerHeight "12"
+[     12939]       cg_hudGrenadePointerPivot "12 27"
+[     12939]       cg_hudGrenadePointerPulseFreq "1.7"
+[     12939]       cg_hudGrenadePointerPulseMax "1.85"
+[     12939]       cg_hudGrenadePointerPulseMin "0.3"
+[     12939]       cg_hudGrenadePointerWidth "25"
+[     12939]       cg_hudlegacysplitscreenscale "2"
+[     12939]       cg_hudMapBorderWidth "2"
+[     12939]       cg_hudMapFriendlyHeight "15"
+[     12939]       cg_hudMapFriendlyWidth "15"
+[     12939]       cg_hudMapPlayerHeight "20"
+[     12939]       cg_hudMapPlayerWidth "20"
+[     12939]       cg_hudMapRadarLineThickness "0.15"
+[     12939]       cg_hudObjectiveTextScale "0.3"
+[     12939]       cg_hudProneY "-160"
+[     12940]       cg_hudSayPosition "5 175"
+[     12940]       cg_hudsplitscreencompassscale "1.5"
+[     12940]       cg_hudsplitscreenstancescale "2"
+[     12940]       cg_hudStanceFlash "1 1 1 1"
+[     12940]       cg_hudStanceHintPrints "0"
+[     12940]       cg_hudVotePosition "5 220"
+[     12940]       cg_invalidCmdHintBlinkInterval "600"
+[     12940]       cg_invalidCmdHintDuration "1800"
+[     12940]       cg_javelinKillCamCloseZDist "128"
+[     12940]       cg_javelinKillCamDownDist "150"
+[     12940]       cg_javelinKillCamFov "60"
+[     12940]       cg_javelinKillCamLookLerpDist "3000"
+[     12940]       cg_javelinKillCamPassDist "50"
+[     12940]       cg_javelinKillCamPassTime "5"
+[     12940]       cg_javelinKillCamUpDist "200"
+[     12940]       cg_killCamDefaultLerpTime "300"
+[     12940]       cg_killCamTurretLerpTime "900"
+[     12940]       cg_laserlight "1"
+[     12940]       cg_levelReverbDryLevel "0.9"
+[     12940]       cg_levelReverbEnabled "1"
+[     12940]       cg_levelReverbRoomType "city"
+[     12940]       cg_levelReverbWetLevel "0.15"
+[     12940]       cg_mapLocationSelectionCursorSpeed "0.6"
+[     12940]       cg_marks_ents_player_only "0"
+[     12940]       cg_minCullBulletDist "128"
+[     12940]       cg_newColors "1"
+[     12940]       cg_noclip_scaler "3"
+[     12940]       cg_nopredict "0"
+[     12940]       cg_overheadIconSize "0.7"
+[     12940]       cg_overheadNamesFarDist "1024"
+[     12940]       cg_overheadNamesFarScale "0.75"
+[     12940]       cg_overheadNamesFont "2"
+[     12940]       cg_overheadNamesGlow "0 0 0 1"
+[     12940]       cg_overheadNamesMaxDist "10000"
+[     12940]       cg_overheadNamesNearDist "256"
+[     12940]       cg_overheadNamesSize "0.5"
+[     12940]       cg_overheadRankSize "0.5"
+[     12940]       cg_overheadTitlesFont "2"
+[     12940]       cg_overheadTitleSize "0.5"
+[     12940]       cg_predictItems "1"
+[     12940]       cg_predictItemsDuration "5"
+[     12940]       cg_remoteMissileKillCamBackDist "300"
+[     12940]       cg_remoteMissileKillCamUpDist "60"
+[     12940]       cg_rocketKillCamBackDist "70"
+[     12940]       cg_rocketKillCamUpDist "10"
+[     12940]       cg_scoreboardBannerHeight "35"
+[     12940]       cg_scoreboardFont "0"
+[     12940]       cg_scoreboardHeaderFontScale "0.35"
+[     12940]       cg_scoreboardHeight "435"
+[     12940]       cg_scoreboardItemHeight "18"
+[     12940]       cg_scoreboardMyColor "1 0.8 0.4 1"
+[     12940]       cg_scoreboardPingGraph "1"
+[     12940]       cg_scoreboardPingHeight "0.7"
+[     12940]       cg_scoreboardPingText "1"
+[     12940]       cg_scoreboardPingWidth "0.036"
+[     12940]       cg_scoreboardRankFontScale "0.25"
+[     12940]       cg_scoreboardScrollStep "3"
+[     12941]       cg_scoreboardTextOffset "0.5"
+[     12941]       cg_scoreboardWidth "500"
+[     12941]       cg_ScoresPing_BgColor "0.25098 0.25098 0.25098 0.501961"
+[     12941]       cg_ScoresPing_HighColor "0.8 0 0 1"
+[     12941]       cg_ScoresPing_Interval "100"
+[     12941]       cg_ScoresPing_LowColor "0 0.74902 0 1"
+[     12941]       cg_ScoresPing_MaxBars "4"
+[     12941]       cg_ScoresPing_MedColor "0.8 0.8 0 1"
+[     12941]       cg_scriptIconSize "0"
+[     12941]       cg_showmiss "0"
+[     12941]       cg_splatterHitAlpha "1"
+[     12941]       cg_splatterHitFadeInTime "0.05"
+[     12941]       cg_splatterHitFadeOutTime "0.1"
+[     12941]       cg_splatterHitFullInTime "0"
+[     12941]       cg_splatterHitInnerAngle "15"
+[     12941]       cg_splatterHitInnerRadius "0"
+[     12941]       cg_splatterHitOntoScreen "0"
+[     12941]       cg_splatterHitOuterAngle "30"
+[     12941]       cg_splatterHitOuterRadius "0.6"
+[     12941]       cg_splatterTrackAlpha "1"
+[     12941]       cg_splatterTrackFadeInTime "0"
+[     12941]       cg_splatterTrackFadeOutTime "0.5"
+[     12941]       cg_splatterTrackFullInTime "0.3"
+[     12941]       cg_splatterTrackIndependent "1"
+[     12941]       cg_splatterTrackInnerAngle "5"
+[     12941]       cg_splatterTrackInnerRadius "0.4"
+[     12941]       cg_splatterTrackOntoScreen "0"
+[     12941]       cg_splatterTrackOuterAngle "20"
+[     12941]       cg_splatterTrackOuterRadius "0.6"
+[     12941]       cg_sprintMeterDisabledColor "0.8 0.1 0.1 0.2"
+[     12941]       cg_sprintMeterEmptyColor "0.7 0.5 0.2 0.8"
+[     12941]       cg_sprintMeterFullColor "0.8 0.8 0.8 0.8"
+[     12941]       cg_subtitleMinTime "3"
+[     12941]       cg_subtitleWidthStandard "520"
+[     12941]       cg_subtitleWidthWidescreen "600"
+[     12941]       cg_teamChatsOnly "0"
+[     12941]       cg_thirdPerson "0"
+[     12941]       cg_thirdPersonAngle "0"
+[     12941]       cg_thirdPersonMode "Fixed"
+[     12941]       cg_thirdPersonRange "120"
+[     12941]       cg_turretKillCamBackDist "10"
+[     12941]       cg_turretKillCamFov "50"
+[     12941]       cg_turretKillCamUpDist "10"
+[     12941]       cg_ufo_scaler "6"
+[     12941]       cg_viewVehicleInfluence "1"
+[     12941]       cg_viewZSmoothingMax "16"
+[     12941]       cg_viewZSmoothingMin "1"
+[     12941]       cg_viewZSmoothingTime "0.1"
+[     12941]       cg_voiceIconSize "0"
+[     12941]       cg_watersheeting "1"
+[     12941]       cg_waterSheeting_brightness "0"
+[     12941]       cg_waterSheeting_contrast "1"
+[     12941]       cg_waterSheeting_darkTint "1 1 1"
+[     12941]       cg_waterSheeting_desaturation "0"
+[     12941]       cg_waterSheeting_distortionScaleFactor "0.021961 1 0 0"
+[     12941]       cg_waterSheeting_enable "0"
+[     12941]       cg_waterSheeting_fadeDuration "2"
+[     12941]       cg_waterSheeting_lightTint "0.780261 1 1"
+[     12941]       cg_waterSheeting_magnitude "0.0655388"
+[     12941]       cg_waterSheeting_radius "4.44051"
+[     12941]       cg_weapHitCullAngle "45"
+[     12941]       cg_weapHitCullEnable "1"
+[     12941]       cg_weaponCycleDelay "0"
+[     12941]       cg_weaponHintsCoD1Style "1"
+[     12941]       cg_weaponVisInterval "4"
+[     12941]       cg_youInKillCamSize "6"
+[     12941]       cl_analog_attack_threshold "0.8"
+[     12942]       cl_anglespeedkey "1.5"
+[     12942]       cl_anonymous "0"
+[     12942]       cl_autoRecord "1"
+[     12942]       cl_bypassMouseInput "0"
+[     12942]       cl_connectionAttempts "15"
+[     12942]       cl_connectTimeout "120"
+[     12942]       cl_demoBackJump "20000"
+[     12942]       cl_demoFastTimescaleSpeed "3"
+[     12942]       cl_demoForwardJump "4000"
+[     12942]       cl_demosKeep "200"
+[     12942]       cl_demoSlowTimescaleSpeed "0.4"
+[     12942]       cl_dirSelConvergenceTime "0.1"
+[     12942]       cl_freelook "1"
+[     12942]       cl_freezeDemo "0"
+[     12942]       cl_hudDrawsBehindUI "1"
+[     12942]       cl_ingame "0"
+[     12942]       cl_maxpackets "125"
+[     12942]       cl_maxPing "800"
+[     12942]       cl_migrationTimeout "40"
+[     12942]       cl_modVidRestart "1"
+[     12942]       cl_motdString ""
+[     12942]       cl_mouseAccel "0"
+[     12942]       cl_nodelta "0"
+[     12942]       cl_noprint "0"
+[     12942]       cl_notifyFriendState "1"
+[     12942]       cl_packetdup "1"
+[     12942]       cl_paused "0"
+[     12942]       cl_pitchspeed "140"
+[     12942]       cl_serverStatusResendTime "750"
+[     12942]       cl_showmouserate "0"
+[     12942]       cl_shownet "0"
+[     12942]       cl_shownuments "0"
+[     12942]       cl_showSend "0"
+[     12942]       cl_showServerCommands "0"
+[     12942]       cl_showTimeDelta "0"
+[     12942]       cl_stanceHoldTime "300"
+[     12942]       cl_timeout "20"
+[     12942]       cl_updateoldversion "3243"
+[     12942]       cl_voice "0"
+[     12942]       cl_yawspeed "140"
+[     12942]       clientSideEffects "1"
+[     12942]       com_animCheck "0"
+[     12942]       com_cinematicEndInWhite "0"
+[     12942]       com_errorResolveCommand ""
+[     12942]       com_filter_output "0"
+[     12942]       com_logFilter "1"
+[     12942]       com_maxfps "30"
+[     12942]       com_maxFrameTime "100"
+[     12942]       com_recommendedSet "1"
+[     12942]       com_statmon "0"
+[     12942]       com_timescale "1"
+[     12942]       compass "1"
+[     12942]       compassClampIcons "1"
+[     12942]       compassCoords "740 3590 400"
+[     12942]       compassECoordCutoff "37"
+[     12942]       compassEnemyFootstepEnabled "0"
+[     12942]       compassEnemyFootstepMaxRange "500"
+[     12942]       compassEnemyFootstepMaxZ "100"
+[     12942]       compassEnemyFootstepMinSpeed "140"
+[     12942]       compassFastRadarUpdateTime "2"
+[     12942]       compassFriendlyHeight "16"
+[     12942]       compassFriendlyWidth "16"
+[     12942]       compassHellfireTargetSpot "0"
+[     12942]       compassHideSansObjectivePointer "0"
+[     12942]       compassHideVehicles "0"
+[     12942]       compassMaxRange "2500"
+[     12942]       compassMinRadius "0.0001"
+[     12942]       compassMinRange "0.0001"
+[     12942]       compassObjectiveArrowHeight "20"
+[     12942]       compassObjectiveArrowOffset "2"
+[     12942]       compassObjectiveArrowRotateDist "5"
+[     12942]       compassObjectiveArrowWidth "20"
+[     12942]       compassObjectiveDetailDist "10"
+[     12942]       compassObjectiveDrawLines "1"
+[     12942]       compassObjectiveHeight "20"
+[     12942]       compassObjectiveIconHeight "16"
+[     12942]       compassObjectiveIconWidth "16"
+[     12942]       compassObjectiveMaxHeight "70"
+[     12942]       compassObjectiveMaxRange "2048"
+[     12942]       compassObjectiveMinAlpha "1"
+[     12942]       compassObjectiveMinDistRange "1"
+[     12942]       compassObjectiveMinHeight "-70"
+[     12942]       compassObjectiveNearbyDist "4"
+[     12942]       compassObjectiveNumRings "10"
+[     12942]       compassObjectiveRingSize "80"
+[     12942]       compassObjectiveRingTime "10000"
+[     12942]       compassObjectiveTextHeight "18"
+[     12942]       compassObjectiveTextScale "0.3"
+[     12942]       compassObjectiveWidth "20"
+[     12942]       compassPlayerHeight "18.75"
+[     12942]       compassPlayerWidth "18.75"
+[     12942]       compassRadarLineThickness "0.4"
+[     12942]       compassRadarPingFadeTime "4"
+[     12942]       compassRadarUpdateTime "4"
+[     12942]       compassRotation "1"
+[     12942]       compassSize "1"
+[     12942]       compassSoundPingFadeTime "2"
+[     12942]       compassTickertapeStretch "0.5"
+[     12942]       con_default_console_filter "*"
+[     12942]       con_errormessagetime "8"
+[     12942]       con_gameMsgWindow0FadeInTime "0.25"
+[     12942]       con_gameMsgWindow0FadeOutTime "0.5"
+[     12942]       con_gameMsgWindow0Filter "gamenotify obituary"
+[     12943]       con_gameMsgWindow0LineCount "4"
+[     12943]       con_gameMsgWindow0MsgTime "5"
+[     12943]       con_gameMsgWindow0ScrollTime "0.25"
+[     12943]       con_gameMsgWindow0SplitscreenScale "1.5"
+[     12943]       con_gameMsgWindow1FadeInTime "0.25"
+[     12943]       con_gameMsgWindow1FadeOutTime "0.5"
+[     12943]       con_gameMsgWindow1Filter "boldgame"
+[     12943]       con_gameMsgWindow1LineCount "1"
+[     12943]       con_gameMsgWindow1MsgTime "3"
+[     12943]       con_gameMsgWindow1ScrollTime "0.25"
+[     12943]       con_gameMsgWindow1SplitscreenScale "1.5"
+[     12943]       con_gameMsgWindow2FadeInTime "0.75"
+[     12943]       con_gameMsgWindow2FadeOutTime "0.5"
+[     12943]       con_gameMsgWindow2Filter "subtitle"
+[     12943]       con_gameMsgWindow2LineCount "7"
+[     12943]       con_gameMsgWindow2MsgTime "5"
+[     12943]       con_gameMsgWindow2ScrollTime "0.25"
+[     12943]       con_gameMsgWindow2SplitscreenScale "1.5"
+[     12943]       con_gameMsgWindow3FadeInTime "0.25"
+[     12943]       con_gameMsgWindow3FadeOutTime "0.5"
+[     12943]       con_gameMsgWindow3Filter ""
+[     12943]       con_gameMsgWindow3LineCount "5"
+[     12943]       con_gameMsgWindow3MsgTime "5"
+[     12943]       con_gameMsgWindow3ScrollTime "0.25"
+[     12943]       con_gameMsgWindow3SplitscreenScale "1.5"
+[     12943]       con_inputBoxColor "0.2 0.2 0.2 1"
+[     12943]       con_inputHintBoxColor "0.3 0.3 0.3 1"
+[     12943]       con_matchPrefixOnly "1"
+[     12943]       con_minicon "0"
+[     12943]       con_miniconlines "5"
+[     12943]       con_minicontime "4"
+[     12943]       con_outputBarColor "0.5 0.5 0.5 0.6"
+[     12943]       con_outputSliderColor "0.7 1 0 1"
+[     12943]       con_outputWindowColor "0.25 0.25 0.25 0.85"
+[     12943]       con_typewriterColorBase "1 1 1"
+[     12943]       con_typewriterColorGlowCheckpoint "0.6 0.5 0.6 1"
+[     12943]       con_typewriterColorGlowCompleted "0 0.3 0.8 1"
+[     12943]       con_typewriterColorGlowFailed "0.8 0 0 1"
+[     12943]       con_typewriterColorGlowUpdated "0 0.6 0.18 1"
+[     12943]       con_typewriterDecayDuration "700"
+[     12943]       con_typewriterDecayStartTime "6000"
+[     12943]       con_typewriterPrintSpeed "50"
+[     12943]       cpu_speed_12players "3"
+[     12943]       cpu_speed_18players "6"
+[     12943]       cpu_speed_8players "2.7"
+[     12943]       customtitle ""
+[     12943]       developer "0"
+[     12943]       developer_script "0"
+[     12943]       drawEntityCount "0"
+[     12943]       drawEntityCountPos "-55 -180"
+[     12943]       drawEntityCountSize "32"
+[     12943]       drawKillcamData "0"
+[     12943]       drawKillcamDataPos "-55 -340"
+[     12943]       drawKillcamDataSize "32"
+[     12943]       drawLagometer "0"
+[     12943]       drawServerBandwidth "0"
+[     12943]       drawServerBandwidthPos "-55 -340"
+[     12943]       dynEnt_active "1"
+[     12943]       dynEnt_bulletForce "1000"
+[     12943]       dynEnt_damageScale "1"
+[     12943]       dynEnt_explodeForce "12500"
+[     12943]       dynEnt_explodeMaxEnts "20"
+[     12943]       dynEnt_explodeMinForce "40"
+[     12943]       dynEnt_explodeSpinScale "3"
+[     12943]       dynEnt_explodeUpbias "0.5"
+[     12943]       dynEnt_explodingBulletForce "3500"
+[     12943]       dynEnt_explodingBulletMaxEnts "5"
+[     12943]       dynEnt_explodingBulletMinForce "5"
+[     12943]       dynEnt_explodingBulletSpinScale "1"
+[     12943]       dynEnt_explodingBulletUpbias "0.5"
+[     12943]       fixedtime "0"
+[     12943]       FoFIconMaxSize "640"
+[     12943]       FoFIconMinSize "30"
+[     12943]       FoFIconScale "1.3"
+[     12943]       FoFIconSpawnTimeDelay "1"
+[     12943]       FoFIconSpawnTimeFade "5"
+[     12943]       friction "5.5"
+[     12943]       fs_basegame "iw4x"
+[     12943]       fs_basepath "C:\Call of Duty\Call of Duty Modern Warfar 2"
+[     12943]       fs_cdpath ""
+[     12943]       fs_copyfiles "0"
+[     12943]       fs_debug "0"
+[     12943]       fs_game "mods/Solids-Iw4"
+[     12943]       fs_homepath "C:\Call of Duty\Call of Duty Modern Warfar 2"
+[     12943]       fs_ignoreLocalized "0"
+[     12943]       fx_count "0"
+[     12943]       fx_cull_elem_draw "1"
+[     12943]       fx_cull_elem_spawn "1"
+[     12944]       fx_debugBolt "0"
+[     12944]       fx_draw "1"
+[     12944]       fx_drawClouds "1"
+[     12944]       fx_enable "1"
+[     12944]       fx_freeze "0"
+[     12944]       fx_mark_profile "0"
+[     12944]       fx_marks "1"
+[     12944]       fx_marks_ents "1"
+[     12944]       fx_marks_smodels "1"
+[     12944]       fx_profile "0"
+[     12944]       fx_profileFilter ""
+[     12944]       fx_profileSkip "0"
+[     12944]       fx_profileSort "cost"
+[     12944]       fx_visMinTraceDist "80"
+[     12944]       g_allowvote "1"
+[     12944]       g_antilag "1"
+[     12944]       g_banIPs ""
+[     12944]       g_clonePlayerMaxVelocity "80"
+[     12944]       g_ColorBlind_EnemyTeam "0.658824 0.0862745 0.145098 1"
+[     12944]       g_ColorBlind_MyTeam "1 0.858824 0.12549 1"
+[     12944]       g_deadChat "1"
+[     12944]       g_dropForwardSpeed "10"
+[     12944]       g_dropHorzSpeedRand "100"
+[     12944]       g_dropUpSpeedBase "10"
+[     12944]       g_dropUpSpeedRand "5"
+[     12944]       g_firstLaunch "0"
+[     12944]       g_gametype "war"
+[     12944]       g_gravity "800"
+[     12944]       g_hardcore "0"
+[     12944]       g_log ""
+[     12944]       g_logSync "0"
+[     12944]       g_oldVoting "1"
+[     12944]       g_playerCollisionEjectSpeed "25"
+[     12944]       g_radiusDamageMax "256"
+[     12944]       g_redCrosshairs "1"
+[     12944]       g_synchronousClients "0"
+[     12944]       g_voiceChatTalkingDuration "500"
+[     12944]       g_voteAbstainWeight "0.5"
+[     12944]       gameMode "mp"
+[     12944]       glass_angular_vel "5 35"
+[     12944]       glass_break "1"
+[     12944]       glass_debug "0"
+[     12944]       glass_edge_angle "5 10"
+[     12944]       glass_fall_delay "0.2 0.9"
+[     12944]       glass_fall_gravity "800"
+[     12944]       glass_fall_ratio "1.5 3"
+[     12944]       glass_fringe_maxcoverage "0.2"
+[     12944]       glass_fringe_maxsize "150"
+[     12944]       glass_fx_chance "0.25"
+[     12944]       glass_hinge_friction "50"
+[     12944]       glass_linear_vel "200 400"
+[     12944]       glass_max_pieces_per_frame "100"
+[     12944]       glass_max_shatter_fx_per_frame "6"
+[     12944]       glass_physics_chance "0.15"
+[     12944]       glass_physics_maxdist "512"
+[     12944]       glass_shard_maxsize "300"
+[     12944]       glass_shattered_scale "48"
+[     12944]       glass_trace_interval "100"
+[     12944]       gpad_button_deadzone "0.13"
+[     12944]       gpad_button_lstick_deflect_max "1"
+[     12944]       gpad_button_rstick_deflect_max "1"
+[     12944]       gpad_buttonConfig "buttons_default"
+[     12944]       gpad_buttonsConfig "buttons_default"
+[     12944]       gpad_debug "0"
+[     12944]       gpad_enabled "1"
+[     12944]       gpad_in_use "0"
+[     12944]       gpad_lockon_enabled "1"
+[     12944]       gpad_menu_scroll_delay_first "420"
+[     12944]       gpad_menu_scroll_delay_rest "210"
+[     12944]       gpad_present "0"
+[     12944]       gpad_rumble "1"
+[     12944]       gpad_slowdown_enabled "1"
+[     12944]       gpad_stick_deadzone_max "0.01"
+[     12944]       gpad_stick_deadzone_min "0.2"
+[     12944]       gpad_stick_pressed "0.4"
+[     12944]       gpad_stick_pressed_hysteresis "0.1"
+[     12944]       gpad_sticksConfig "thumbstick_default"
+[     12944]       gpad_style "1"
+[     12944]       gpad_use_hold_time "250"
+[     12944]       heli_barrelMaxVelocity "1250"
+[     12944]       heli_barrelRotation "70"
+[     12944]       heli_barrelSlowdown "360"
+[     12944]       hiDef "1"
+[     12944]       hud_bloodOverlayLerpRate "0.3"
+[     12944]       hud_deathQuoteFadeTime "1000"
+[     12944]       hud_enable "1"
+[     12944]       hud_fade_ammodisplay "0"
+[     12944]       hud_fade_compass "0"
+[     12944]       hud_fade_healthbar "2"
+[     12944]       hud_fade_offhand "0"
+[     12944]       hud_fade_sprint "1.7"
+[     12944]       hud_fade_stance "1.7"
+[     12944]       hud_fadeout_speed "0.1"
+[     12945]       hud_flash_period_offhand "0.5"
+[     12945]       hud_flash_time_offhand "2"
+[     12945]       hud_health_pulserate_critical "0.5"
+[     12945]       hud_health_pulserate_injured "1"
+[     12945]       hud_health_startpulse_critical "0.33"
+[     12945]       hud_health_startpulse_injured "1"
+[     12945]       hudElemPausedBrightness "0.4"
+[     12945]       in_mouse "1"
+[     12945]       input_invertPitch "0"
+[     12945]       input_viewSensitivity "1"
+[     12945]       intro "1"
+[     12945]       isDlcInstalled_1 "1"
+[     12945]       isDlcInstalled_2 "1"
+[     12945]       isDlcInstalled_3 "1"
+[     12945]       isDlcInstalled_4 "1"
+[     12945]       isDlcInstalled_5 "1"
+[     12945]       isDlcInstalled_6 "1"
+[     12945]       isDlcInstalled_7 "1"
+[     12945]       isDlcInstalled_8 "1"
+[     12945]       isDlcInstalled_9 "0"
+[     12945]       isDlcInstalled_All "0"
+[     12945]       iw4x_onelog "0"
+[     12945]       iwnet_debug "0"
+[     12945]       iwnet_maxResendTime "120"
+[     12945]       iwnet_minResendTime "4"
+[     12945]       iwnet_searching "1"
+[     12945]       iwnet_sessionFullHeartbeat "20000"
+[     12945]       iwnet_sessionHeartbeat "5000"
+[     12945]       iwnet_sessions "1"
+[     12945]       iwnet_xuid "8010"
+[     12945]       jump_height "39"
+[     12945]       jump_ladderPushVel "128"
+[     12945]       jump_slowdownEnable "1"
+[     12945]       jump_spreadAdd "64"
+[     12945]       jump_stepSize "18"
+[     12945]       koth_autodestroytime "60"
+[     12945]       koth_capturetime "20"
+[     12945]       koth_delayPlayer "0"
+[     12945]       koth_destroytime "10"
+[     12945]       koth_extraDelay "0"
+[     12945]       koth_kothmode "0"
+[     12945]       koth_proMode "0"
+[     12945]       koth_spawnDelay "60"
+[     12945]       koth_spawntime "30"
+[     12945]       laserDebug "0"
+[     12945]       laserEndOffset "0.5"
+[     12945]       laserFlarePct "0.2"
+[     12945]       laserFlarePct_alt "0"
+[     12945]       laserForceOn "0"
+[     12945]       laserLight "1"
+[     12945]       laserLightBeginOffset "13"
+[     12945]       laserLightBodyTweak "15"
+[     12945]       laserLightEndOffset "-3"
+[     12945]       laserLightRadius "3"
+[     12945]       laserLightRadius_alt "100"
+[     12945]       laserLightWithoutNightvision "0"
+[     12945]       laserRadius "0.8"
+[     12945]       laserRadius_alt "30"
+[     12945]       laserRange "1500"
+[     12945]       laserRange_alt "5000"
+[     12945]       laserRangePlayer "1500"
+[     12945]       loading_sre_fatal "1"
+[     12945]       lobby_partySearchWaitTime "1000"
+[     12946]       loc_forceEnglish "0"
+[     12946]       loc_language "0"
+[     12946]       loc_translate "1"
+[     12946]       loc_warnings "0"
+[     12946]       loc_warningsAsErrors "0"
+[     12946]       loc_warningsUI "0"
+[     12946]       logfile "1"
+[     12946]       lowAmmoWarningColor1 "0.701961 0.701961 0.701961 0.8"
+[     12946]       lowAmmoWarningColor2 "1 1 1 1"
+[     12946]       lowAmmoWarningNoAmmoColor1 "0.8 0.25098 0.301961 0.8"
+[     12946]       lowAmmoWarningNoAmmoColor2 "1 0.25098 0.301961 1"
+[     12946]       lowAmmoWarningNoReloadColor1 "0.701961 0.701961 0.301961 0.701961"
+[     12946]       lowAmmoWarningNoReloadColor2 "0.701961 0.701961 0.301961 1"
+[     12946]       lowAmmoWarningPulseFreq "2.3"
+[     12946]       lowAmmoWarningPulseMax "1.5"
+[     12946]       lowAmmoWarningPulseMin "0"
+[     12946]       lsp_debug "0"
+[     12946]       m_filter "0"
+[     12946]       m_forward "0.25"
+[     12946]       m_pitch "0.022"
+[     12946]       m_rawinput "1"
+[     12946]       m_side "0.25"
+[     12946]       m_yaw "0.022"
+[     12946]       mantle_check_angle "60"
+[     12946]       mantle_check_radius "0.1"
+[     12946]       mantle_check_range "20"
+[     12946]       mantle_debug "0"
+[     12946]       mantle_enable "1"
+[     12946]       mantle_max_vertical_end_velocity "0"
+[     12946]       mantle_view_yawcap "60"
+[     12946]       mapcrc "0"
+[     12946]       mapname ""
+[     12946]       masterPort "20810"
+[     12946]       masterServerName "master.xlabs.dev"
+[     12946]       matchmaking_debug "1"
+[     12946]       maxVoicePacketsPerSec "100"
+[     12946]       maxVoicePacketsPerSecForServer "20"
+[     12946]       migration_blocksperframe "0"
+[     12946]       migration_dvarErrors "0"
+[     12946]       migration_limit "5"
+[     12946]       migration_msgtimeout "500"
+[     12946]       migration_timeBetween "30000"
+[     12946]       migration_verboseBroadcastTime "100"
+[     12946]       migrationPingTime "10"
+[     12946]       missileRemoteFOV "15"
+[     12946]       missileRemoteSteerPitchRange "1 87"
+[     12946]       missileRemoteSteerPitchRate "35"
+[     12946]       missileRemoteSteerYawRate "35"
+[     12946]       mod_force_download_server "0"
+[     12946]       monkeytoy "0"
+[     12946]       motd "Welcome to Modern Warfare 2 multiplayer"
+[     12946]       motionTrackerBlurDuration "0.2"
+[     12947]       motionTrackerCenterX "0"
+[     12947]       motionTrackerCenterY "-0.37"
+[     12947]       motionTrackerPingFadeTime "3"
+[     12947]       motionTrackerPingPitchAddPerEnemy "0"
+[     12947]       motionTrackerPingPitchBase "1"
+[     12947]       motionTrackerPingPitchNearby "2"
+[     12947]       motionTrackerPingSize "0.2"
+[     12947]       motionTrackerRange "1600"
+[     12947]       motionTrackerSweepAngle "90"
+[     12947]       motionTrackerSweepInterval "3"
+[     12947]       motionTrackerSweepSpeed "2000"
+[     12947]       mp_paused "0"
+[     12947]       msg_dumpEnts "0"
+[     12947]       msg_hudelemspew "0"
+[     12947]       msg_printEntityNums "0"
+[     12947]       name "Soliderror"
+[     12947]       net_discoveryPortRangeMax "35000"
+[     12947]       net_discoveryPortRangeMin "25000"
+[     12947]       net_ip "localhost"
+[     12947]       net_lanauthorize "0"
+[     12947]       net_natFix "0"
+[     12947]       net_noipx "0"
+[     12947]       net_noudp "0"
+[     12947]       net_port "28960"
+[     12947]       net_profile "0"
+[     12947]       net_serverFrames "30"
+[     12947]       net_serverQueryLimit "1"
+[     12947]       net_showprofile "0"
+[     12947]       net_socksEnabled "0"
+[     12947]       net_socksPassword ""
+[     12947]       net_socksPort "1080"
+[     12947]       net_socksServer ""
+[     12947]       net_socksUsername ""
+[     12947]       nextdemo ""
+[     12947]       nextmap ""
+[     12947]       nightVisionDisableEffects "0"
+[     12947]       nightVisionFadeInOutTime "0.1"
+[     12947]       nightVisionPowerOnTime "0.3"
+[     12947]       objectiveFadeTimeGoingOff "0.5"
+[     12947]       objectiveFadeTimeGoingOn "1"
+[     12947]       objectiveFadeTimeWaitOff "2"
+[     12947]       objectiveFadeTimeWaitOn "2"
+[     12947]       objectiveFadeTooClose "0.1"
+[     12947]       objectiveFadeTooFar "25"
+[     12947]       objectiveFontSize "0.6"
+[     12947]       objectiveHide "0"
+[     12947]       objectiveTextOffsetY "-5.33"
+[     12947]       onlinegame "1"
+[     12947]       onlinegameandhost "0"
+[     12947]       onlineunrankedgameandhost "0"
+[     12947]       overrideNVGModelWithKnife "0"
+[     12947]       packetDebug "0"
+[     12947]       painReverbDryLevel "0.5"
+[     12947]       painReverbRoomType "underwater"
+[     12947]       painReverbWetLevel "0.4"
+[     12947]       painVisionLerpOutRate "0.3"
+[     12947]       painVisionTriggerHealth "0.55"
+[     12947]       party_autoteams "1"
+[     12947]       party_connectTimeout "1000"
+[     12947]       party_connectToOthers "1"
+[     12947]       party_currentSearchTier "2"
+[     12947]       party_debug "0"
+[     12947]       party_defaultSearchTier "2"
+[     12947]       party_editingsettings "0"
+[     12947]       party_enable "0"
+[     12947]       party_firstSubpartyIndex "0"
+[     12947]       party_gamesize ""
+[     12948]       party_gameStartTimerLength "10"
+[     12948]       party_gametype ""
+[     12948]       party_host "0"
+[     12948]       party_hostmigration "0"
+[     12948]       party_hostname ""
+[     12948]       party_IAmSelected "0"
+[     12948]       party_kickplayerquestion ""
+[     12948]       party_listFocus "0"
+[     12948]       party_lobbyPlayerCount ""
+[     12948]       party_mapname ""
+[     12948]       party_mappacks ""
+[     12948]       party_matchedPlayerCount "4"
+[     12948]       party_maxplayers "16"
+[     12948]       party_maxPrivatePartyPlayers "18"
+[     12948]       party_maxSearchTier "6"
+[     12948]       party_maxTeamDiff "1"
+[     12948]       party_membersMissingMapPack "0"
+[     12948]       party_minLobbyTime "60"
+[     12948]       party_minplayers "2"
+[     12948]       party_msPerTier "50"
+[     12948]       party_partyPlayerCount ""
+[     12948]       party_playervisible "0"
+[     12948]       party_pregameStartTimerLength "5"
+[     12948]       party_searchPauseTime "2000"
+[     12948]       party_searchRandomDelay "500"
+[     12948]       party_searchResultsLifetime "45000"
+[     12948]       party_searchResultsMin "2000"
+[     12948]       party_selectedIndex "0"
+[     12948]       party_selectedIndexChangedTime "0"
+[     12948]       party_statusString ""
+[     12948]       party_teambased "1"
+[     12948]       party_teamsVisible "0"
+[     12948]       party_timer "0"
+[     12948]       party_vetoButtonVisible "0"
+[     12948]       party_vetoDelayTime "4"
+[     12948]       party_vetoPassed "0"
+[     12948]       party_vetoPercentRequired "0.501"
+[     12948]       party_vetoStatus ""
+[     12948]       partymigrate_broadcast_interval "200"
+[     12948]       partymigrate_cpuBonusPing "25"
+[     12948]       partymigrate_cpuBonusThreshold "0.5"
+[     12948]       partymigrate_pingtest_retry "100"
+[     12948]       partymigrate_pingtest_timeout "600"
+[     12948]       partymigrate_selectiontime "1800"
+[     12948]       partymigrate_timeout "8000"
+[     12948]       partymigrate_timeoutmax "15000"
+[     12948]       password ""
+[     12948]       perk_armorPiercingDamage "40"
+[     12948]       perk_blastShield "65"
+[     12948]       perk_bulletPenetrationMultiplier "2"
+[     12948]       perk_diveDistanceCheck "64"
+[     12948]       perk_diveGravityScale "0.75"
+[     12948]       perk_diveVelocity "250"
+[     12948]       perk_diveViewRollResetSpeed "4"
+[     12948]       perk_diveViewRollSpeed "0.5"
+[     12948]       perk_diveViewRollTarget "45"
+[     12948]       perk_extendedMagsMGAmmo "10"
+[     12948]       perk_extendedMagsPistolAmmo "5"
+[     12949]       perk_extendedMagsRifleAmmo "10"
+[     12949]       perk_extendedMagsSMGAmmo "10"
+[     12949]       perk_extendedMagsSpreadAmmo "5"
+[     12949]       perk_extendedMeleeRange "176"
+[     12949]       perk_extraBreath "5"
+[     12949]       perk_fastSnipeScale "2"
+[     12949]       perk_footstepVolumeAlly "0.25"
+[     12949]       perk_footstepVolumeEnemy "4"
+[     12949]       perk_footstepVolumePlayer "0.25"
+[     12949]       perk_grenadeDeath "frag_grenade_short_mp"
+[     12949]       perk_improvedExtraBreath "5"
+[     12949]       perk_lightWeightViewBobScale "0.75"
+[     12949]       perk_parabolicAngle "180"
+[     12949]       perk_parabolicIcon "specialty_parabolic"
+[     12949]       perk_parabolicRadius "400"
+[     12949]       perk_quickDrawSpeedScale "1.5"
+[     12949]       perk_scavengerMode "0"
+[     12949]       perk_sprintMultiplier "2"
+[     12949]       perk_sprintRecoveryMultiplierActual "0.6"
+[     12949]       perk_sprintRecoveryMultiplierVisual "0.6"
+[     12949]       perk_weapRateMultiplier "0.75"
+[     12949]       perk_weapReloadMultiplier "0.5"
+[     12949]       perk_weapSpreadMultiplier "0.65"
+[     12949]       phys_autoDisableAngular "57"
+[     12949]       phys_autoDisableFastAngular "270"
+[     12949]       phys_autoDisableFastLinear "40"
+[     12949]       phys_autoDisableFastTime "0.5"
+[     12949]       phys_autoDisableLinear "20"
+[     12949]       phys_autoDisableTime "0.9"
+[     12949]       phys_bulletSpinScale "3"
+[     12949]       phys_bulletUpBias "0.5"
+[     12949]       phys_cfm "0.0001"
+[     12949]       phys_collUseEntities "0"
+[     12949]       phys_contact_cfm "1e-05"
+[     12949]       phys_contact_cfm_ragdoll "0.001"
+[     12949]       phys_contact_cfm_vehicle "0.001"
+[     12949]       phys_contact_cfm_vehicleSoft "0.05"
+[     12949]       phys_contact_erp "0.8"
+[     12949]       phys_contact_erp_ragdoll "0.3"
+[     12949]       phys_contact_erp_vehicle "0.5"
+[     12949]       phys_contact_erp_vehicleSoft "0.05"
+[     12949]       phys_csl "0.3"
+[     12949]       phys_dragAngular "0.5"
+[     12949]       phys_dragLinear "0.03"
+[     12949]       phys_drawAwake "0"
+[     12949]       phys_drawCollisionObj "0"
+[     12949]       phys_drawCollisionWorld "0"
+[     12949]       phys_drawcontacts "0"
+[     12949]       phys_drawDebugInfo "0"
+[     12949]       phys_dumpcontacts "0"
+[     12949]       phys_erp "0.8"
+[     12949]       phys_frictionScale "1"
+[     12949]       phys_gravity "-800"
+[     12949]       phys_gravity_ragdoll "-800"
+[     12949]       phys_gravityChangeWakeupRadius "120"
+[     12949]       phys_jitterMaxMass "200"
+[     12949]       phys_joint_cfm "0.0001"
+[     12949]       phys_joint_stop_cfm "0.0001"
+[     12949]       phys_joint_stop_erp "0.8"
+[     12949]       phys_jointPullThreshold "4"
+[     12949]       phys_mcv "20"
+[     12949]       phys_mcv_ragdoll "1000"
+[     12949]       phys_mcv_vehicle "300"
+[     12949]       phys_minImpactMomentum "250"
+[     12949]       phys_narrowObjMaxLength "4"
+[     12949]       phys_noIslands "0"
+[     12949]       phys_qsi "15"
+[     12949]       phys_reorderConst "1"
+[     12949]       physVeh_collideWithClipOnly "0"
+[     12949]       physVeh_explodeForce "800"
+[     12949]       physVeh_explodeSpinScale "3"
+[     12949]       physVeh_jump "0"
+[     12949]       physVeh_minImpactMomentum "17.6"
+[     12949]       physVeh_pathConstraintCfm "1e-06"
+[     12949]       physVeh_pathConstraintErp "0.8"
+[     12949]       physVeh_slideReductionForHighSpeed "0"
+[     12949]       physVeh_StepsPerFrame "3"
+[     12949]       player_adsExitDelay "0"
+[     12949]       player_backSpeedScale "0.7"
+[     12949]       player_breath_fire_delay "0"
+[     12949]       player_breath_gasp_lerp "6"
+[     12949]       player_breath_gasp_scale "4.5"
+[     12949]       player_breath_gasp_time "1"
+[     12949]       player_breath_hold_lerp "1"
+[     12949]       player_breath_hold_time "4.5"
+[     12949]       player_breath_snd_delay "1"
+[     12949]       player_breath_snd_lerp "2"
+[     12949]       player_burstFireCooldown "0.2"
+[     12950]       player_debugHealth "0"
+[     12950]       player_dmgtimer_flinchTime "500"
+[     12950]       player_dmgtimer_maxTime "750"
+[     12950]       player_dmgtimer_minScale "0"
+[     12950]       player_dmgtimer_stumbleTime "500"
+[     12950]       player_dmgtimer_timePerPoint "100"
+[     12950]       player_duckedSpeedScale "0.65"
+[     12950]       player_footstepsThreshhold "0"
+[     12950]       player_lastStandCrawlSpeedScale "0.2"
+[     12950]       player_lastStandDebug "0"
+[     12950]       player_lean_rotate_crouch_left "0.8"
+[     12950]       player_lean_rotate_crouch_right "0.3"
+[     12950]       player_lean_rotate_left "0.8"
+[     12950]       player_lean_rotate_right "0.4"
+[     12950]       player_lean_shift_crouch_left "4"
+[     12950]       player_lean_shift_crouch_right "15"
+[     12950]       player_lean_shift_left "5"
+[     12950]       player_lean_shift_right "9"
+[     12950]       player_meleeHeight "10"
+[     12950]       player_meleeRange "64"
+[     12950]       player_meleeWidth "10"
+[     12950]       player_move_factor_on_torso "0"
+[     12950]       player_moveThreshhold "10"
+[     12950]       player_proneSpeedScale "0.15"
+[     12950]       player_runThreshhold "110"
+[     12951]       player_scopeExitOnDamage "0"
+[     12951]       player_spectateSpeedScale "1"
+[     12951]       player_sprintCameraBob "0.5"
+[     12951]       player_sprintForwardMinimum "105"
+[     12951]       player_sprintMinTime "1"
+[     12951]       player_sprintRechargePause "0"
+[     12951]       player_sprintSpeedScale "1.5"
+[     12951]       player_sprintStrafeSpeedScale "0.667"
+[     12951]       player_sprintTime "4"
+[     12951]       player_sprintUnlimited "0"
+[     12951]       player_strafeAnimCosAngle "0.5"
+[     12951]       player_strafeSpeedScale "0.8"
+[     12951]       player_sustainAmmo "0"
+[     12951]       player_turnAnims "0"
+[     12951]       player_view_pitch_down "85"
+[     12951]       player_view_pitch_up "85"
+[     12951]       playlist "0"
+[     12951]       playlistFilename "playlists_default.info"
+[     12951]       privateMatch_joinPassword ""
+[     12951]       privateMatch_serverPassword ""
+[     12951]       protocol "150"
+[     12951]       r_aaAlpha "dither (fast)"
+[     12951]       r_aaMaxQuality "0"
+[     12951]       r_aaSamples "2"
+[     12951]       r_altModelLightingUpdate "0"
+[     12951]       r_aspectRatio "auto"
+[     12951]       r_atlasAnimFPS "15"
+[     12951]       r_autopriority "0"
+[     12951]       r_blacklevel "0"
+[     12951]       r_blur "0"
+[     12951]       r_brightness "0"
+[     12951]       r_cacheModelLighting "1"
+[     12951]       r_cacheSModelLighting "1"
+[     12951]       r_clear "never"
+[     12951]       r_clearColor "0 0 0 0"
+[     12951]       r_clearColor2 "0 0 0 0"
+[     12951]       r_colorBlind "0"
+[     12951]       r_colorMap "Unchanged"
+[     12951]       r_contrast "1"
+[     12951]       r_customAspectRatio "1.77778"
+[     12951]       r_customMode ""
+[     12951]       r_debugLineWidth "1"
+[     12951]       r_debugShader "none"
+[     12951]       r_depthPrepass "None"
+[     12951]       r_desaturation "1"
+[     12951]       r_detail "1"
+[     12951]       r_detailMap "Unchanged"
+[     12951]       r_diffuseColorScale "1"
+[     12951]       r_displayRefresh "60 Hz"
+[     12951]       r_distortion "1"
+[     12951]       r_dlightLimit "4"
+[     12951]       r_dof_bias "0.5"
+[     12951]       r_dof_enable "0"
+[     12951]       r_dof_farBlur "1.8"
+[     12951]       r_dof_farEnd "7000"
+[     12951]       r_dof_farStart "1000"
+[     12951]       r_dof_nearBlur "6"
+[     12951]       r_dof_nearEnd "60"
+[     12951]       r_dof_nearStart "10"
+[     12951]       r_dof_tweak "0"
+[     12951]       r_dof_viewModelEnd "8"
+[     12951]       r_dof_viewModelStart "2"
+[     12951]       r_dpvsFilterDebug "0"
+[     12951]       r_drawAabbTrees "0"
+[     12951]       r_drawDebugDistance "1000"
+[     12951]       r_drawDecals "1"
+[     12951]       r_drawModelBoundingBoxes "Disabled"
+[     12951]       r_drawModelNames "Disabled"
+[     12951]       r_drawSceneModelCollisions "0"
+[     12951]       r_drawSun "1"
+[     12951]       r_drawTriggers "0"
+[     12951]       r_drawWater "1"
+[     12951]       r_envMapExponent "5"
+[     12951]       r_envMapMaxIntensity "0.5"
+[     12951]       r_envMapMinIntensity "0.2"
+[     12951]       r_envMapOverride "0"
+[     12951]       r_envMapSunIntensity "2"
+[     12951]       r_fastSkin "0"
+[     12951]       r_filmAltShader "1"
+[     12952]       r_filmTweakBrightness "0"
+[     12952]       r_filmTweakContrast "1.4"
+[     12952]       r_filmTweakDarkTint "0.7 0.85 1"
+[     12952]       r_filmTweakDesaturation "0.2"
+[     12952]       r_filmTweakDesaturationDark "0.2"
+[     12952]       r_filmTweakEnable "0"
+[     12952]       r_filmTweakInvert "0"
+[     12952]       r_filmTweakLightTint "1.1 1.05 0.85"
+[     12952]       r_filmTweakMediumTint "0.9 1 0.9"
+[     12952]       r_filmUseTweaks "0"
+[     12952]       r_floatz "1"
+[     12952]       r_fog "1"
+[     12952]       r_forceLod "none"
+[     12952]       r_fullbright "0"
+[     12952]       r_fullscreen "1"
+[     12952]       r_gamma "0.8"
+[     12952]       r_glow "1"
+[     12952]       r_glow_allowed "1"
+[     12952]       r_glow_allowed_script_forced "0"
+[     12952]       r_glowTweakBloomCutoff "0.5"
+[     12952]       r_glowTweakBloomDesaturation "0"
+[     12952]       r_glowTweakBloomIntensity0 "1"
+[     12952]       r_glowTweakEnable "0"
+[     12952]       r_glowTweakRadius0 "5"
+[     12952]       r_glowUseTweaks "0"
+[     12952]       r_gpuSync "off"
+[     12952]       r_heroLighting "1"
+[     12952]       r_highLodDist "-1"
+[     12952]       r_ignore "0"
+[     12952]       r_ignorehwgamma "0"
+[     12952]       r_inGameVideo "1"
+[     12952]       r_lightCacheLessFrequentMaxDistance "64"
+[     12952]       r_lightCacheLessFrequentPeriod "10"
+[     12952]       r_lightGridContrast "0"
+[     12952]       r_lightGridEnableTweaks "0"
+[     12952]       r_lightGridIntensity "1"
+[     12952]       r_lightGridUseTweakedValues "1"
+[     12952]       r_lightMap "Unchanged"
+[     12952]       r_listSModels "0"
+[     12952]       r_loadForRenderer "1"
+[     12952]       r_lockPvs "0"
+[     12952]       r_lodBiasRigid "0"
+[     12952]       r_lodBiasSkinned "0"
+[     12952]       r_lodScaleRigid "1"
+[     12952]       r_lodScaleSkinned "1"
+[     12952]       r_lowestLodDist "-1"
+[     12952]       r_lowLodDist "-1"
+[     12952]       r_mediumLodDist "-1"
+[     12952]       r_mode "1360x768"
+[     12952]       r_modelVertColor "1"
+[     12952]       r_monitor "0"
+[     12952]       r_multiGpu "0"
+[     12952]       r_noborder "1"
+[     12952]       r_normal "1"
+[     12952]       r_normalMap "Unchanged"
+[     12952]       r_noVoid "0"
+[     12952]       r_outdoor "1"
+[     12952]       r_outdoorFeather "8"
+[     12952]       r_picmip "0"
+[     12952]       r_picmip_bump "1"
+[     12952]       r_picmip_manual "0"
+[     12952]       r_picmip_spec "1"
+[     12952]       r_picmip_water "0"
+[     12952]       r_polygonOffsetBias "-1"
+[     12952]       r_polygonOffsetScale "-1"
+[     12952]       r_portalBevels "0.7"
+[     12952]       r_portalBevelsOnly "0"
+[     12952]       r_portalMinClipArea "0.02"
+[     12952]       r_portalMinRecurseDepth "2"
+[     12952]       r_portalWalkLimit "0"
+[     12952]       r_preloadShaders "0"
+[     12952]       r_pretess "1"
+[     12952]       r_primaryLightTweakDiffuseStrength "1"
+[     12952]       r_primaryLightTweakSpecularStrength "1"
+[     12952]       r_primaryLightUseTweaks "0"
+[     12952]       r_reflectionProbeGenerate "0"
+[     12952]       r_reflectionProbeGenerateExit "0"
+[     12952]       r_reflectionProbeRegenerateAll "0"
+[     12952]       r_rendererInUse "Shader model 3.0"
+[     12952]       r_rendererPreference "Default"
+[     12952]       r_resampleScene "1"
+[     12952]       r_scaleViewport "1"
+[     12952]       r_showFbColorDebug "None"
+[     12952]       r_showFloatZDebug "0"
+[     12952]       r_showLightGrid "0"
+[     12952]       r_showMissingLightGrid "0"
+[     12952]       r_showPortals "0"
+[     12952]       r_showPortalsOverview "0"
+[     12952]       r_singleCell "0"
+[     12952]       r_skipPvs "0"
+[     12952]       r_smc_enable "1"
+[     12952]       r_smc_optimize "1"
+[     12952]       r_smp_backend "1"
+[     12952]       r_smp_worker "1"
+[     12952]       r_smp_worker_thread0 "1"
+[     12952]       r_smp_worker_thread1 "1"
+[     12952]       r_specular "0"
+[     12953]       r_specularColorScale "2.5"
+[     12953]       r_specularCustomMaps "0"
+[     12953]       r_specularMap "Unchanged"
+[     12953]       r_spotLightBrightness "14"
+[     12953]       r_spotLightEndRadius "196"
+[     12953]       r_spotLightEntityShadows "1"
+[     12953]       r_spotLightExponent "2"
+[     12953]       r_spotLightFovInnerFraction "0.5"
+[     12953]       r_spotLightMaxLength "5000"
+[     12953]       r_spotLightShadows "1"
+[     12953]       r_spotLightSModelShadows "1"
+[     12953]       r_spotLightStartRadius "36"
+[     12953]       r_sse_skinning "1"
+[     12953]       r_subwindow "0 1 0 1"
+[     12953]       r_sun_from_dvars "0"
+[     12953]       r_sun_fx_position "0 0 0"
+[     12953]       r_sunblind_fadein "0.5"
+[     12953]       r_sunblind_fadeout "3"
+[     12953]       r_sunblind_max_angle "5"
+[     12953]       r_sunblind_max_darken "0.75"
+[     12953]       r_sunblind_min_angle "30"
+[     12953]       r_sunflare_fadein "1"
+[     12953]       r_sunflare_fadeout "1"
+[     12953]       r_sunflare_max_alpha "1"
+[     12953]       r_sunflare_max_angle "2"
+[     12953]       r_sunflare_max_size "2500"
+[     12953]       r_sunflare_min_angle "45"
+[     12953]       r_sunflare_min_size "0"
+[     12953]       r_sunflare_shader "sun_flare"
+[     12953]       r_sunglare_fadein "0.5"
+[     12953]       r_sunglare_fadeout "3"
+[     12953]       r_sunglare_max_angle "5"
+[     12953]       r_sunglare_max_lighten "0.75"
+[     12953]       r_sunglare_min_angle "30"
+[     12953]       r_sunsprite_shader "sun"
+[     12953]       r_sunsprite_size "16"
+[     12953]       r_texFilterAnisoMax "4"
+[     12953]       r_texFilterAnisoMin "1"
+[     12953]       r_texFilterDisable "0"
+[     12953]       r_texFilterMipBias "0"
+[     12953]       r_texFilterMipMode "Unchanged"
+[     12953]       r_useD3D9Ex "0"
+[     12953]       r_useLayeredMaterials "0"
+[     12953]       r_vc_makelog "0"
+[     12953]       r_vc_showlog "0"
+[     12953]       r_vsync "0"
+[     12953]       r_warningRepeatDelay "5"
+[     12953]       r_zfar "0"
+[     12953]       r_zFeather "1"
+[     12953]       r_znear "4"
+[     12953]       r_znear_depthhack "0.1"
+[     12953]       radarjamDistMax "800"
+[     12953]       radarjamDistMin "350"
+[     12953]       radarjamSinCurve "0"
+[     12953]       ragdoll_baselerp_time "1000"
+[     12953]       ragdoll_bullet_force "500"
+[     12953]       ragdoll_bullet_upbias "0.5"
+[     12953]       ragdoll_debug "0"
+[     12953]       ragdoll_dump_anims "0"
+[     12953]       ragdoll_enable "1"
+[     12953]       ragdoll_explode_force "18000"
+[     12953]       ragdoll_explode_upbias "0.8"
+[     12953]       ragdoll_exploding_bullet_force "5000"
+[     12953]       ragdoll_exploding_bullet_upbias "0.8"
+[     12953]       ragdoll_fps "20"
+[     12953]       ragdoll_idle_min_velsq "2"
+[     12953]       ragdoll_jitter_scale "1"
+[     12953]       ragdoll_jointlerp_time "3000"
+[     12953]       ragdoll_max_life "4500"
+[     12953]       ragdoll_max_simulating "16"
+[     12953]       ragdoll_max_stretch_pct "10"
+[     12953]       ragdoll_rotvel_scale "1"
+[     12953]       ragdoll_self_collision_scale "1.2"
+[     12953]       ragdoll_stretch_iters "10"
+[     12953]       rate "25000"
+[     12953]       reliableResendTime "300"
+[     12953]       reliableTimeoutTime "20000"
+[     12953]       RemoteCameraSounds_DryLevel "0.1"
+[     12953]       RemoteCameraSounds_RoomType "underwater"
+[     12953]       RemoteCameraSounds_WetLevel "0.5"
+[     12953]       requireOpenNat "1"
+[     12953]       safeArea_adjusted_horizontal "1"
+[     12953]       safeArea_adjusted_vertical "1"
+[     12953]       safeArea_horizontal "0.85"
+[     12953]       safeArea_vertical "0.85"
+[     12953]       scr_airdrop_ac130 "3"
+[     12953]       scr_airdrop_ammo "17"
+[     12953]       scr_airdrop_counter_uav "15"
+[     12953]       scr_airdrop_emp "1"
+[     12953]       scr_airdrop_harrier_airstrike "7"
+[     12953]       scr_airdrop_helicopter "7"
+[     12953]       scr_airdrop_helicopter_flares "5"
+[     12953]       scr_airdrop_helicopter_minigun "3"
+[     12953]       scr_airdrop_mega_ac130 "2"
+[     12953]       scr_airdrop_mega_ammo "12"
+[     12953]       scr_airdrop_mega_counter_uav "16"
+[     12953]       scr_airdrop_mega_emp "0"
+[     12953]       scr_airdrop_mega_harrier_airstrike "5"
+[     12953]       scr_airdrop_mega_helicopter "5"
+[     12953]       scr_airdrop_mega_helicopter_flares "3"
+[     12953]       scr_airdrop_mega_helicopter_minigun "2"
+[     12953]       scr_airdrop_mega_nuke "0"
+[     12953]       scr_airdrop_mega_precision_airstrike "10"
+[     12953]       scr_airdrop_mega_predator_missile "14"
+[     12953]       scr_airdrop_mega_sentry "16"
+[     12953]       scr_airdrop_mega_stealth_airstrike "3"
+[     12953]       scr_airdrop_mega_uav "12"
+[     12954]       scr_airdrop_nuke "0"
+[     12954]       scr_airdrop_precision_airstrike "11"
+[     12954]       scr_airdrop_predator_missile "12"
+[     12954]       scr_airdrop_sentry "12"
+[     12954]       scr_airdrop_stealth_airstrike "5"
+[     12954]       scr_airdrop_uav "17"
+[     12954]       scr_arena_numlives "1"
+[     12954]       scr_arena_promode "0"
+[     12954]       scr_arena_roundlimit "0"
+[     12954]       scr_arena_roundswitch "3"
+[     12954]       scr_arena_scorelimit "1"
+[     12954]       scr_arena_timelimit "2.5"
+[     12954]       scr_arena_winlimit "4"
+[     12954]       scr_ctf_halftime "1"
+[     12954]       scr_ctf_numlives "0"
+[     12954]       scr_ctf_playerrespawndelay "0"
+[     12954]       scr_ctf_promode "0"
+[     12954]       scr_ctf_returntime "30"
+[     12954]       scr_ctf_roundlimit "1"
+[     12954]       scr_ctf_scorelimit "0"
+[     12954]       scr_ctf_timelimit "10"
+[     12954]       scr_ctf_waverespawndelay "10"
+[     12954]       scr_ctf_winlimit "1"
+[     12954]       scr_dd_addtime "2.5"
+[     12954]       scr_dd_bombtimer "45"
+[     12954]       scr_dd_defusetime "5"
+[     12954]       scr_dd_numlives "0"
+[     12954]       scr_dd_planttime "5"
+[     12954]       scr_dd_playerrespawndelay "0"
+[     12954]       scr_dd_promode "0"
+[     12954]       scr_dd_roundlimit "3"
+[     12954]       scr_dd_roundswitch "1"
+[     12954]       scr_dd_scorelimit "1"
+[     12954]       scr_dd_timelimit "2.5"
+[     12954]       scr_dd_waverespawndelay "0"
+[     12954]       scr_dd_winlimit "2"
+[     12954]       scr_diehard "0"
+[     12954]       scr_dm_numlives "0"
+[     12954]       scr_dm_playerrespawndelay "0"
+[     12954]       scr_dm_promode "0"
+[     12954]       scr_dm_roundlimit "1"
+[     12954]       scr_dm_scorelimit "1500"
+[     12954]       scr_dm_timelimit "10"
+[     12954]       scr_dm_waverespawndelay "0"
+[     12954]       scr_dm_winlimit "1"
+[     12954]       scr_dom_numlives "0"
+[     12954]       scr_dom_playerrespawndelay "0"
+[     12954]       scr_dom_promode "0"
+[     12955]       scr_dom_roundlimit "1"
+[     12955]       scr_dom_scorelimit "200"
+[     12955]       scr_dom_timelimit "0"
+[     12955]       scr_dom_waverespawndelay "0"
+[     12955]       scr_dom_winlimit "1"
+[     12955]       scr_explBulletMod "1"
+[     12955]       scr_game_allowkillcam "1"
+[     12955]       scr_game_deathpointloss "0"
+[     12955]       scr_game_forceuav "0"
+[     12955]       scr_game_graceperiod "0"
+[     12955]       scr_game_hardpoints "1"
+[     12955]       scr_game_killstreakdelay "0"
+[     12955]       scr_game_onlyheadshots "0"
+[     12955]       scr_game_perks "1"
+[     12955]       scr_game_spectatetype "1"
+[     12955]       scr_game_suicidepointloss "0"
+[     12955]       scr_gtnw_numlives "0"
+[     12955]       scr_gtnw_playerrespawndelay "0"
+[     12955]       scr_gtnw_promode "0"
+[     12955]       scr_gtnw_roundlimit "1"
+[     12955]       scr_gtnw_roundswitch "0"
+[     12955]       scr_gtnw_scorelimit "101"
+[     12955]       scr_gtnw_timelimit "10"
+[     12955]       scr_gtnw_waverespawndelay "0"
+[     12955]       scr_gtnw_winlimit "1"
+[     12955]       scr_hardcore "0"
+[     12955]       scr_hardpoint_allowartillery "1"
+[     12955]       scr_hardpoint_allowhelicopter "1"
+[     12955]       scr_hardpoint_allowuav "1"
+[     12955]       scr_infected_allow_allies_attachments "1"
+[     12955]       scr_infected_allow_allies_equipment "1"
+[     12955]       scr_infected_allow_allies_specialist "1"
+[     12955]       scr_infected_allow_allies_starting_perks "1"
+[     12955]       scr_infected_allow_inf_ti "1"
+[     12955]       scr_infected_allow_inf_tk "1"
+[     12955]       scr_infected_pick_time "15"
+[     12955]       scr_intermissionTime "10"
+[     12955]       scr_koth_numlives "0"
+[     12955]       scr_koth_playerrespawndelay "0"
+[     12955]       scr_koth_promode "0"
+[     12955]       scr_koth_roundlimit "1"
+[     12955]       scr_koth_roundswitch "1"
+[     12955]       scr_koth_scorelimit "250"
+[     12955]       scr_koth_timelimit "15"
+[     12955]       scr_koth_waverespawndelay "0"
+[     12955]       scr_koth_winlimit "1"
+[     12955]       scr_maxPerPlayerExplosives "2"
+[     12955]       scr_nuke_is_moab "0"
+[     12955]       scr_nukeCancelMode "0"
+[     12955]       scr_nukeTimer "10"
+[     12955]       scr_oldschool "0"
+[     12955]       scr_oneflag_numlives "0"
+[     12955]       scr_oneflag_playerrespawndelay "0"
+[     12955]       scr_oneflag_promode "0"
+[     12955]       scr_oneflag_roundlimit "0"
+[     12955]       scr_oneflag_roundswitch "3"
+[     12955]       scr_oneflag_scorelimit "1"
+[     12955]       scr_oneflag_timelimit "3"
+[     12955]       scr_oneflag_waverespawndelay "0"
+[     12955]       scr_oneflag_winlimit "4"
+[     12955]       scr_patientZero ""
+[     12955]       scr_player_forcerespawn "1"
+[     12955]       scr_player_healthregentime "5"
+[     12955]       scr_player_maxhealth "100"
+[     12955]       scr_player_numlives "0"
+[     12955]       scr_player_respawndelay "0"
+[     12955]       scr_player_sprinttime "4"
+[     12955]       scr_player_suicidespawndelay "0"
+[     12955]       scr_RequiredMapAspectratio "1"
+[     12955]       scr_restxp_cap "0.5"
+[     12955]       scr_restxp_enable "0"
+[     12955]       scr_restxp_levelsPerDay "0.5"
+[     12955]       scr_restxp_minRestTime "4"
+[     12955]       scr_restxp_restedAwardScale "0.5"
+[     12955]       scr_restxp_timescale "1"
+[     12955]       scr_riotShieldXPBullets "15"
+[     12955]       scr_sab_bombtimer "30"
+[     12955]       scr_sab_defusetime "5"
+[     12955]       scr_sab_hotpotato "0"
+[     12955]       scr_sab_numlives "0"
+[     12955]       scr_sab_planttime "2.5"
+[     12955]       scr_sab_playerrespawndelay "7.5"
+[     12955]       scr_sab_promode "0"
+[     12955]       scr_sab_roundlimit "1"
+[     12955]       scr_sab_roundswitch "1"
+[     12955]       scr_sab_scorelimit "0"
+[     12956]       scr_sab_timelimit "20"
+[     12956]       scr_sab_waverespawndelay "0"
+[     12956]       scr_sab_winlimit "1"
+[     12956]       scr_sd_bombtimer "45"
+[     12956]       scr_sd_defusetime "5"
+[     12956]       scr_sd_multibomb "0"
+[     12956]       scr_sd_numlives "1"
+[     12956]       scr_sd_planttime "5"
+[     12956]       scr_sd_playerrespawndelay "0"
+[     12956]       scr_sd_promode "0"
+[     12956]       scr_sd_roundlimit "0"
+[     12956]       scr_sd_roundswitch "3"
+[     12956]       scr_sd_scorelimit "1"
+[     12956]       scr_sd_timelimit "2.5"
+[     12956]       scr_sd_waverespawndelay "0"
+[     12956]       scr_sd_winlimit "4"
+[     12956]       scr_tdef_numlives "0"
+[     12956]       scr_tdef_playerrespawndelay "0"
+[     12956]       scr_tdef_promode "0"
+[     12956]       scr_tdef_roundlimit "1"
+[     12956]       scr_tdef_scorelimit "7500"
+[     12956]       scr_tdef_timelimit "10"
+[     12956]       scr_tdef_waverespawndelay "0"
+[     12956]       scr_tdef_winlimit "1"
+[     12956]       scr_team_fftype "0"
+[     12956]       scr_team_kickteamkillers "0"
+[     12956]       scr_team_respawntime "0"
+[     12956]       scr_team_teamkillpointloss "1"
+[     12956]       scr_team_teamkillspawndelay "20"
+[     12956]       scr_thirdPerson "0"
+[     12956]       scr_tispawndelay "0"
+[     12956]       scr_vip_numlives "0"
+[     12956]       scr_vip_promode "0"
+[     12956]       scr_vip_roundlimit "3"
+[     12956]       scr_vip_roundswitch "1"
+[     12956]       scr_vip_scorelimit "1"
+[     12956]       scr_vip_timelimit "2.5"
+[     12956]       scr_vip_winlimit "2"
+[     12956]       scr_war_numlives "0"
+[     12956]       scr_war_playerrespawndelay "0"
+[     12956]       scr_war_promode "0"
+[     12956]       scr_war_roundlimit "1"
+[     12956]       scr_war_scorelimit "7500"
+[     12956]       scr_war_timelimit "10"
+[     12956]       scr_war_waverespawndelay "0"
+[     12956]       scr_war_winlimit "1"
+[     12956]       scr_xpscale "1"
+[     12956]       sensitivity "11.0759"
+[     12956]       sentry_placement_debug "0"
+[     12956]       sentry_placement_feet_offset "17 20 10"
+[     12956]       sentry_placement_feet_trace_dist_z "20"
+[     12956]       sentry_placement_trace_dist "42"
+[     12957]       sentry_placement_trace_min_normal "0.7"
+[     12957]       sentry_placement_trace_pitch "20"
+[     12957]       sentry_placement_trace_radius "30"
+[     12957]       sentry_placement_trace_radius_canon_safety "5"
+[     12957]       server1 ""
+[     12957]       server10 ""
+[     12957]       server11 ""
+[     12957]       server12 ""
+[     12957]       server13 ""
+[     12957]       server14 ""
+[     12957]       server15 ""
+[     12957]       server16 ""
+[     12957]       server2 ""
+[     12957]       server3 ""
+[     12957]       server4 ""
+[     12957]       server5 ""
+[     12957]       server6 ""
+[     12957]       server7 ""
+[     12957]       server8 ""
+[     12957]       server9 ""
+[     12958]       session_immediateDeleteTinySessions "0"
+[     12958]       session_nonblocking "1"
+[     12958]       shieldImpactBulletShakeDuration "500"
+[     12958]       shieldImpactBulletShakeScale "0.35"
+[     12958]       shieldImpactExplosionHighShakeDuration "1250"
+[     12958]       shieldImpactExplosionHighShakeScale "0.5"
+[     12958]       shieldImpactExplosionLowShakeDuration "800"
+[     12958]       shieldImpactExplosionLowShakeScale "0.4"
+[     12958]       shieldImpactExplosionThreshold "85"
+[     12958]       shieldImpactMissileShakeDuration "1500"
+[     12958]       shieldImpactMissileShakeScale "0.5"
+[     12958]       shortversion "0.7.2"
+[     12958]       showdrop "0"
+[     12958]       showpackets "0"
+[     12958]       sm_enable "0"
+[     12958]       sm_fastSunShadow "1"
+[     12958]       sm_lightScore_eyeProjectDist "64"
+[     12958]       sm_lightScore_spotProjectFrac "0.125"
+[     12958]       sm_maxLights "4"
+[     12958]       sm_minSpotLightScore "0.5"
+[     12958]       sm_polygonOffsetBias "0.125"
+[     12958]       sm_polygonOffsetScale "2"
+[     12958]       sm_qualitySpotShadow "1"
+[     12958]       sm_spotDistCull "1"
+[     12958]       sm_spotEnable "1"
+[     12958]       sm_spotLimit "4"
+[     12958]       sm_spotShadowFadeTime "1"
+[     12958]       sm_strictCull "1"
+[     12958]       sm_sunEnable "1"
+[     12958]       sm_sunSampleSizeNear "0.25"
+[     12958]       sm_sunShadowCenter "0 0 0"
+[     12958]       sm_sunShadowScale "1"
+[     12958]       sm_sunShadowScaleLocked "1"
+[     12958]       snaps "20"
+[     12958]       snd_cinematicVolumeScale "0.5"
+[     12958]       snd_draw3D "Off"
+[     12958]       snd_drawInfo "None"
+[     12958]       snd_enable2D "1"
+[     12958]       snd_enable3D "1"
+[     12958]       snd_enableEq "1"
+[     12958]       snd_enableReverb "1"
+[     12958]       snd_enableStream "1"
+[     12958]       snd_errorOnMissing "0"
+[     12958]       snd_khz "44"
+[     12958]       snd_levelFadeTime "250"
+[     12958]       snd_outputConfiguration "Windows default"
+[     12958]       snd_slaveFadeTime "500"
+[     12958]       snd_touchStreamFilesOnLoad "0"
+[     12958]       snd_volume "0.8"
+[     12958]       splitscreen "0"
+[     12958]       stat_version "10"
+[     12958]       stopspeed "100"
+[     12958]       sv_allowAimAssist "1"
+[     12958]       sv_allowAnonymous "0"
+[     12958]       sv_allowClientConsole "1"
+[     12958]       sv_allowColoredNames "1"
+[     12958]       sv_allowDownload "1"
+[     12958]       sv_allowedClan1 ""
+[     12958]       sv_allowedClan2 ""
+[     12958]       sv_cheats "0"
+[     12958]       sv_clientArchive "1"
+[     12958]       sv_clientSideBullets "1"
+[     12958]       sv_connectTimeout "120"
+[     12958]       sv_customTextColor "1 0.701961 0 1"
+[     12958]       sv_debugRate "0"
+[     12958]       sv_debugReliableCmds "0"
+[     12958]       sv_dontrotate "0"
+[     12958]       sv_floodProtect "1"
+[     12958]       sv_hostname "Solids Test"
+[     12958]       sv_hugeSnapshotDelay "200"
+[     12958]       sv_hugeSnapshotSize "4000"
+[     12958]       sv_iwdNames ""
+[     12958]       sv_iwds ""
+[     12958]       sv_kickBanTime "300"
+[     12958]       sv_mapRotation ""
+[     12958]       sv_mapRotationCurrent ""
+[     12958]       sv_maxclients "18"
+[     12958]       sv_maxPing "0"
+[     12958]       sv_maxRate "25000"
+[     12958]       sv_minPing "0"
+[     12958]       sv_network_fps "50"
+[     12958]       sv_packet_info "0"
+[     12958]       sv_padPackets "0"
+[     12958]       sv_paused "0"
+[     12958]       sv_privateClients "0"
+[     12958]       sv_privateClientsForClients "0"
+[     12958]       sv_privatePassword ""
+[     12958]       sv_pure "0"
+[     12958]       sv_reconnectlimit "3"
+[     12958]       sv_referencedFFCheckSums ""
+[     12958]       sv_referencedFFNames ""
+[     12958]       sv_referencedIwdNames ""
+[     12958]       sv_referencedIwds ""
+[     12958]       sv_rejoinTimeout "5"
+[     12959]       sv_running "0"
+[     12959]       sv_securityLevel "23"
+[     12959]       sv_showAverageBPS "0"
+[     12959]       sv_timeout "20"
+[     12959]       sv_voiceQuality "3"
+[     12959]       sv_wwwBaseUrl ""
+[     12959]       sv_wwwDownload "0"
+[     12959]       sv_zombietime "2"
+[     12959]       sys_configSum "0"
+[     12959]       sys_configureGHz "6.0883"
+[     12959]       sys_cpuGHz "2.09608"
+[     12959]       sys_cpuName "AMD A10-5745M APU with Radeon(tm) HD Graphics  "
+[     12959]       sys_gpu "AMD Radeon(TM) HD 8610G"
+[     12959]       sys_lockThreads "none"
+[     12959]       sys_quitMigrateTime "15000"
+[     12959]       sys_smp_allowed "1"
+[     12959]       sys_SSE "1"
+[     12959]       sys_sysMB "2048"
+[     12959]       systemlink "0"
+[     12959]       testClients_doAttack "1"
+[     12959]       testClients_doCrouch "0"
+[     12959]       testClients_doMove "1"
+[     12959]       testClients_doReload "1"
+[     12959]       testClients_watchKillcam "1"
+[     12959]       thermal_playerModel ""
+[     12959]       thermalBlurFactorNoScope "250"
+[     12959]       thermalBlurFactorScope "250"
+[     12959]       timescale "1"
+[     12959]       tracer_debugDraw "0"
+[     12959]       tracer_explosiveColor1 "1 0.75 0.75 0"
+[     12959]       tracer_explosiveColor2 "1 0.75 0.75 1"
+[     12959]       tracer_explosiveColor3 "1 0.75 0.75 1"
+[     12959]       tracer_explosiveColor4 "1 0.75 0.75 1"
+[     12959]       tracer_explosiveColor5 "1 0.75 0.75 1"
+[     12959]       tracer_explosiveColor6 "1 0.75 0.75 0"
+[     12959]       tracer_explosiveOverride "1"
+[     12959]       tracer_explosiveWidth "15"
+[     12959]       tracer_firstPersonMaxWidth "4"
+[     12959]       tracer_stoppingPowerColor1 "0 0 0 0"
+[     12959]       tracer_stoppingPowerColor2 "1 1 1 1"
+[     12959]       tracer_stoppingPowerColor3 "1 0 0 1"
+[     12959]       tracer_stoppingPowerColor4 "1 0 0 1"
+[     12959]       tracer_stoppingPowerColor5 "1 1 0 1"
+[     12959]       tracer_stoppingPowerColor6 "1 1 1 1"
+[     12959]       tracer_stoppingPowerOverride "0"
+[     12959]       tracer_stoppingPowerWidth "6"
+[     12959]       tracer_thermalWidthMult "2"
+[     12959]       turret_adsEnabled "1"
+[     12959]       turret_adsFov "35"
+[     12959]       turret_adsTime "250"
+[     12959]       turret_fov "55"
+[     12959]       ui_allow_controlschange "1"
+[     12959]       ui_bigFont "0.688"
+[     12959]       ui_borderLowLightScale "0.35"
+[     12959]       ui_browserFriendlyfire "-1"
+[     12959]       ui_browserKillcam "-1"
+[     12959]       ui_browserMod "-1"
+[     12959]       ui_browserShowDedicated "0"
+[     12959]       ui_browserShowEmpty "1"
+[     12959]       ui_browserShowFull "1"
+[     12959]       ui_browserShowPassword "-1"
+[     12959]       ui_browserShowPunkBuster "-1"
+[     12959]       ui_browserShowPure "1"
+[     12959]       ui_buildLocation "-20 15"
+[     12959]       ui_currentFeederMapIndex "0"
+[     12959]       ui_currentMap "0"
+[     12959]       ui_dl_progress ""
+[     12959]       ui_dl_timeLeft ""
+[     12959]       ui_dl_transRate ""
+[     12959]       ui_drawCrosshair "1"
+[     12959]       ui_extraBigFont "1"
+[     12959]       ui_gametype "war"
+[     12959]       ui_hud_hardcore "0"
+[     12959]       ui_hud_obituaries "1"
+[     12959]       ui_hud_showobjicons "1"
+[     12959]       ui_joinGametype "0"
+[     12959]       ui_localize "1"
+[     12959]       ui_map_desc ""
+[     12959]       ui_map_long "Afghan"
+[     12959]       ui_map_name "mp_afghan"
+[     12959]       ui_mapname "mp_afghan"
+[     12959]       ui_mousePitch "0"
+[     12960]       ui_nativeCursor "0"
+[     12961]       ui_netGametype "1"
+[     12961]       ui_netGametypeName "war"
+[     12961]       ui_netSource "1"
+[     12961]       ui_serverSelected "0"
+[     12961]       ui_serverSelectedMap "mp_afghan"
+[     12961]       ui_serverStatusTimeOut "7000"
+[     12961]       ui_showmap "1"
+[     12961]       ui_smallFont "0.563"
+[     12961]       ui_startupMessage ""
+[     12961]       ui_startupMessageTitle ""
+[     12961]       ui_startupNextButtonText ""
+[     12961]       ui_streamFriendly "0"
+[     12961]       ui_zoneDebug "0"
+[     12961]       upnp_maxAttempts "4"
+[     12961]       useFastFile "1"
+[     12961]       useMapPreloading "1"
+[     12961]       useonlinestats "0"
+[     12961]       useRelativeTeamColors "0"
+[     12961]       useSvMapPreloading "1"
+[     12961]       useTagFlashSilenced "1"
+[     12961]       veh_boneControllerLodDist "2000"
+[     12961]       vehAudio_inAirPitchDownLerp "1.2"
+[     12961]       vehAudio_inAirPitchUpLerp "0.75"
+[     12961]       vehAudio_spawnVolumeTime "2"
+[     12961]       vehCam_angles "0 0 0"
+[     12961]       vehCam_editMode "0"
+[     12961]       vehCam_freeLook "0"
+[     12961]       vehCam_offset "0 0 0"
+[     12961]       vehCam_pitchClamp "45"
+[     12961]       vehCam_pitchTurnRate "90"
+[     12961]       vehCam_radius "0"
+[     12961]       vehCam_speedInfluence "0"
+[     12961]       vehCam_yawClamp "45"
+[     12961]       vehCam_yawTurnRate "260"
+[     12961]       vehCam_zOffsetMode "World"
+[     12961]       version "IW4x MP (Beta) build 0.7.2 latest May 10 2022 19:46:24 win-x86"
+[     12961]       vid_xpos "0"
+[     12961]       vid_ypos "0"
+[     12961]       viewModelDebugNotetracks "0"
+[     12961]       viewModelHacks "1"
+[     12961]       viewposNow "0 0 0"
+[     12961]       voiceDebug "0"
+[     12961]       voiceDegrade "0"
+[     12961]       waypointDebugDraw "0"
+[     12961]       waypointDistScaleRangeMax "3000"
+[     12961]       waypointDistScaleRangeMin "1000"
+[     12961]       waypointDistScaleSmallest "0.8"
+[     12961]       waypointIconHeight "36"
+[     12961]       waypointIconWidth "36"
+[     12961]       waypointOffscreenCornerRadius "105"
+[     12961]       waypointOffscreenDistanceThresholdAlpha "30"
+[     12961]       waypointOffscreenPadBottom "30"
+[     12961]       waypointOffscreenPadLeft "103"
+[     12961]       waypointOffscreenPadRight "0"
+[     12961]       waypointOffscreenPadTop "0"
+[     12961]       waypointOffscreenPointerDistance "20"
+[     12961]       waypointOffscreenPointerHeight "12"
+[     12961]       waypointOffscreenPointerWidth "25"
+[     12961]       waypointOffscreenRoundedCorners "1"
+[     12961]       waypointOffscreenScaleLength "500"
+[     12961]       waypointOffscreenScaleSmallest "1"
+[     12961]       waypointPlayerOffsetCrouch "56"
+[     12961]       waypointPlayerOffsetProne "30"
+[     12961]       waypointPlayerOffsetStand "66"
+[     12961]       waypointSplitscreenScale "1.8"
+[     12961]       waypointTweakY "-17"
+[     12961]       wideScreen "1"
+[     12961]       winvoice_loopback "0"
+[     12961]       winvoice_mic_mute "1"
+[     12961]       winvoice_mic_reclevel "65535"
+[     12961]       winvoice_mic_scaler "1"
+[     12961]       winvoice_save_voice "0"
+[     12961]       xblive_hostingprivateparty "0"
+[     12961]       xblive_loggedin "0"
+[     12961]       xblive_playEvenIfDown "0"
+[     12961]       xblive_privatematch "1"
+[     12961]       xblive_privatepartyclient "0"
+[     12961]       xblive_privateserver "0"
+[     12961]       xblive_rankedmatch "0"
+[     12961] 
+1841 total dvars
+1841 dvar indexes
+[     12961] =============================== END DVAR DUMP =====================================
+[     13817] Waited 382 msec for asset 'popup_button_selection_bar_flipped' of type 'material'.
+[     14282] Waited 297 msec for asset 'ui_mp/menus.txt' of type 'menufile'.
+[     14662] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 2823
+Server: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+Ext:
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" configId="1337"><specVersion><major>1</major><minor>1</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:InternetGatewayDevice:2</deviceType><friendlyName>Ubuntu router</friendlyName><manufacturer>Ubuntu</manufacturer><manufacturerURL>http://www.ubuntu.com/</manufacturerURL><modelDescription>Ubuntu router</modelDescription><modelName>Ubuntu router</modelName><modelNumber>1</modelNumber><modelURL>http://www.ubuntu.com/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><serviceList><service><serviceType>urn:schemas-upnp-org:service:Layer3Forwarding:1</serviceType><serviceId>urn:upnp-org:serviceId:L3Forwarding1</serviceId><SCPDURL>/L3F.xml</SCPDURL><controlURL>/ctl/L3F</controlURL><eventSubURL>/evt/L3F</eventSubURL></service><service><serviceType>urn:schemas-upnp-org:service:DeviceProtection:1</serviceType><serviceId>urn:upnp-org:serviceId:DeviceProtection1</serviceId><SCPDURL>/DP.xml</SCPDURL><controlURL>/ctl/DP</controlURL><eventSubURL>/evt/DP</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANDevice:2</deviceType><friendlyName>WANDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>WAN Device</modelDescription><modelName>WAN Device</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1</serviceType><serviceId>urn:upnp-org:serviceId:WANCommonIFC1</serviceId><SCPDURL>/WANCfg.xml</SCPDURL><controlURL>/ctl/CmnIfCfg</controlURL><eventSubURL>/evt/CmnIfCfg</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANConnectionDevice:2</deviceType><friendlyName>WANConnectionDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>MiniUPnP daemon</modelDescription><modelName>MiniUPnPd</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANIPConnection:2</serviceType><serviceId>urn:upnp-org:serviceId:WANIPConn1</serviceId><SCPDURL>/WANIPCn.xml</SCPDURL><controlURL>/ctl/IPConn</controlURL><eventSubURL>/evt/IPConn</eventSubURL></service></serviceList></device></deviceList></device></deviceList><presentationURL>http://192.168.1.1/</presentationURL></device></root>'
+[     14662] UPnP device :
+ desc: http://192.168.1.222:8060/
+ st: upnp:rootdevice
+[     16699] http request timed out - response was 'HTTP/1.1 200 OK
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+Content-Length: 1139
+Cache-Control: no-cache
+Content-Type: text/xml; charset="utf-8"
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:roku-com:device:player:1-0</deviceType>
+<friendlyName>Philly Roku</friendlyName>
+<manufacturer>Roku</manufacturer>
+<manufacturerURL>http://www.roku.com/</manufacturerURL>
+<modelDescription>Roku Streaming Player Network Media</modelDescription>
+<modelName>4800RW</modelName>
+<modelNumber>4800RW</modelNumber>
+<modelURL>http://www.roku.com/</modelURL>
+<serialNumber>X010005RKPX6</serialNumber>
+<UDN>uuid:28001000-0000-1000-8005-84eaed6abf9c</UDN>
+<serviceList>
+<service>
+<serviceType>urn:roku-com:service:ecp:1</serviceType>
+<serviceId>urn:roku-com:serviceId:ecp1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>ecp_SCPD.xml</SCPDURL>
+</service>
+<service>
+<serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+<serviceId>urn:dial-multiscreen-org:serviceId:dial1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>dial_SCPD.xml</SCPDURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[     16699] UPnP device :
+ desc: http://192.168.1.70:8060/
+ st: upnp:rootdevice
+[     18718] http request timed out - response was 'HTTP/1.1 200 OK
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+Content-Length: 1319
+Cache-Control: no-cache
+Content-Type: text/xml; charset="utf-8"
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:roku-com:device:player:1-0</deviceType>
+<friendlyName>50&quot; Hisense Roku TV</friendlyName>
+<manufacturer>Hisense</manufacturer>
+<manufacturerURL>hisense-usa.com/support</manufacturerURL>
+<modelDescription>Roku Streaming Player Network Media</modelDescription>
+<modelName>C222X</modelName>
+<modelNumber>C222X</modelNumber>
+<modelURL>http://www.roku.com/</modelURL>
+<serialNumber>X001002GD4XP</serialNumber>
+<UDN>uuid:28000040-0000-1000-8002-d4abcd04d975</UDN>
+<iconList>
+<icon>
+<mimetype>image/png</mimetype>
+<width>360</width>
+<height>219</height>
+<depth>8</depth>
+<url>device-image.png</url>
+</icon>
+</iconList>
+<serviceList>
+<service>
+<serviceType>urn:roku-com:service:ecp:1</serviceType>
+<serviceId>urn:roku-com:serviceId:ecp1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>ecp_SCPD.xml</SCPDURL>
+</service>
+<service>
+<serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+<serviceId>urn:dial-multiscreen-org:serviceId:dial1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>dial_SCPD.xml</SCPDURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[     18718] UPnP device :
+ desc: http://192.168.1.1:43460/rootDesc.xml
+ st: urn:schemas-upnp-org:service:WANIPConnection:1
+[     20725] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 2823
+Server: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+Ext:
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" configId="1337"><specVersion><major>1</major><minor>1</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:InternetGatewayDevice:2</deviceType><friendlyName>Ubuntu router</friendlyName><manufacturer>Ubuntu</manufacturer><manufacturerURL>http://www.ubuntu.com/</manufacturerURL><modelDescription>Ubuntu router</modelDescription><modelName>Ubuntu router</modelName><modelNumber>1</modelNumber><modelURL>http://www.ubuntu.com/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><serviceList><service><serviceType>urn:schemas-upnp-org:service:Layer3Forwarding:1</serviceType><serviceId>urn:upnp-org:serviceId:L3Forwarding1</serviceId><SCPDURL>/L3F.xml</SCPDURL><controlURL>/ctl/L3F</controlURL><eventSubURL>/evt/L3F</eventSubURL></service><service><serviceType>urn:schemas-upnp-org:service:DeviceProtection:1</serviceType><serviceId>urn:upnp-org:serviceId:DeviceProtection1</serviceId><SCPDURL>/DP.xml</SCPDURL><controlURL>/ctl/DP</controlURL><eventSubURL>/evt/DP</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANDevice:2</deviceType><friendlyName>WANDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>WAN Device</modelDescription><modelName>WAN Device</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1</serviceType><serviceId>urn:upnp-org:serviceId:WANCommonIFC1</serviceId><SCPDURL>/WANCfg.xml</SCPDURL><controlURL>/ctl/CmnIfCfg</controlURL><eventSubURL>/evt/CmnIfCfg</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANConnectionDevice:2</deviceType><friendlyName>WANConnectionDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>MiniUPnP daemon</modelDescription><modelName>MiniUPnPd</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANIPConnection:2</serviceType><serviceId>urn:upnp-org:serviceId:WANIPConn1</serviceId><SCPDURL>/WANIPCn.xml</SCPDURL><controlURL>/ctl/IPConn</controlURL><eventSubURL>/evt/IPConn</eventSubURL></service></serviceList></device></deviceList></device></deviceList><presentationURL>http://192.168.1.1/</presentationURL></device></root>'
+[     20725] UPnP device :
+ desc: http://192.168.1.1:43460/rootDesc.xml
+ st: urn:schemas-upnp-org:service:WANPPPConnection:1
+[     22312] Huffman Took 6 Milliseconds
+[     22312] Working directory: C:\Call of Duty\Call of Duty Modern Warfar 2
+[     22342] Using profile source local (l:0 c:1)
+[     22410] GENERIC
+[     22410] error: Failed to allocate Capture Buffer -2147467259
+[     22728] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 2823
+Server: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+Ext:
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" configId="1337"><specVersion><major>1</major><minor>1</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:InternetGatewayDevice:2</deviceType><friendlyName>Ubuntu router</friendlyName><manufacturer>Ubuntu</manufacturer><manufacturerURL>http://www.ubuntu.com/</manufacturerURL><modelDescription>Ubuntu router</modelDescription><modelName>Ubuntu router</modelName><modelNumber>1</modelNumber><modelURL>http://www.ubuntu.com/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><serviceList><service><serviceType>urn:schemas-upnp-org:service:Layer3Forwarding:1</serviceType><serviceId>urn:upnp-org:serviceId:L3Forwarding1</serviceId><SCPDURL>/L3F.xml</SCPDURL><controlURL>/ctl/L3F</controlURL><eventSubURL>/evt/L3F</eventSubURL></service><service><serviceType>urn:schemas-upnp-org:service:DeviceProtection:1</serviceType><serviceId>urn:upnp-org:serviceId:DeviceProtection1</serviceId><SCPDURL>/DP.xml</SCPDURL><controlURL>/ctl/DP</controlURL><eventSubURL>/evt/DP</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANDevice:2</deviceType><friendlyName>WANDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>WAN Device</modelDescription><modelName>WAN Device</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1</serviceType><serviceId>urn:upnp-org:serviceId:WANCommonIFC1</serviceId><SCPDURL>/WANCfg.xml</SCPDURL><controlURL>/ctl/CmnIfCfg</controlURL><eventSubURL>/evt/CmnIfCfg</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANConnectionDevice:2</deviceType><friendlyName>WANConnectionDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>MiniUPnP daemon</modelDescription><modelName>MiniUPnPd</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANIPConnection:2</serviceType><serviceId>urn:upnp-org:serviceId:WANIPConn1</serviceId><SCPDURL>/WANIPCn.xml</SCPDURL><controlURL>/ctl/IPConn</controlURL><eventSubURL>/evt/IPConn</eventSubURL></service></serviceList></device></deviceList></device></deviceList><presentationURL>http://192.168.1.1/</presentationURL></device></root>'
+[     22728] UPnP device :
+ desc: http://192.168.1.1:43460/rootDesc.xml
+ st: upnp:rootdevice
+[     24745] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 2823
+Server: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+Ext:
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" configId="1337"><specVersion><major>1</major><minor>1</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:InternetGatewayDevice:2</deviceType><friendlyName>Ubuntu router</friendlyName><manufacturer>Ubuntu</manufacturer><manufacturerURL>http://www.ubuntu.com/</manufacturerURL><modelDescription>Ubuntu router</modelDescription><modelName>Ubuntu router</modelName><modelNumber>1</modelNumber><modelURL>http://www.ubuntu.com/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><serviceList><service><serviceType>urn:schemas-upnp-org:service:Layer3Forwarding:1</serviceType><serviceId>urn:upnp-org:serviceId:L3Forwarding1</serviceId><SCPDURL>/L3F.xml</SCPDURL><controlURL>/ctl/L3F</controlURL><eventSubURL>/evt/L3F</eventSubURL></service><service><serviceType>urn:schemas-upnp-org:service:DeviceProtection:1</serviceType><serviceId>urn:upnp-org:serviceId:DeviceProtection1</serviceId><SCPDURL>/DP.xml</SCPDURL><controlURL>/ctl/DP</controlURL><eventSubURL>/evt/DP</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANDevice:2</deviceType><friendlyName>WANDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>WAN Device</modelDescription><modelName>WAN Device</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1</serviceType><serviceId>urn:upnp-org:serviceId:WANCommonIFC1</serviceId><SCPDURL>/WANCfg.xml</SCPDURL><controlURL>/ctl/CmnIfCfg</controlURL><eventSubURL>/evt/CmnIfCfg</eventSubURL></service></serviceList><deviceList><device><deviceType>urn:schemas-upnp-org:device:WANConnectionDevice:2</deviceType><friendlyName>WANConnectionDevice</friendlyName><manufacturer>MiniUPnP</manufacturer><manufacturerURL>http://miniupnp.free.fr/</manufacturerURL><modelDescription>MiniUPnP daemon</modelDescription><modelName>MiniUPnPd</modelName><modelNumber>20211006</modelNumber><modelURL>http://miniupnp.free.fr/</modelURL><serialNumber>00000000</serialNumber><UDN>uuid:00000000-0000-0000-0000-000000000000</UDN><UPC>000000000000</UPC><serviceList><service><serviceType>urn:schemas-upnp-org:service:WANIPConnection:2</serviceType><serviceId>urn:upnp-org:serviceId:WANIPConn1</serviceId><SCPDURL>/WANIPCn.xml</SCPDURL><controlURL>/ctl/IPConn</controlURL><eventSubURL>/evt/IPConn</eventSubURL></service></serviceList></device></deviceList></device></deviceList><presentationURL>http://192.168.1.1/</presentationURL></device></root>'
+[     24745] Ran out of UPNP devices to query
+[     25380] Waited 2968 msec for asset 'wc_l_hsm_b0c0' of type 'techset'.
+[     25380] Successfully read stats data
+[     36562] Calling Party_StopParty() for partyId 0
+[     36562] Not uploading stats: no statWriteNeeded (cont 0)
+[     36562] Clearing migration data
+[     36562] Clearing migration data
+[     36562] Calling Party_StopParty() for partyId 1
+[     36562] Clearing migration data
+[     36562] Clearing migration data
+[     56983] Error: Waited 20421 msec for missing asset "MPUI_DESC_PLAYONLINE", of type "localize".
+[     61178] CL_Live_StartPrivateParty() was called, calling Party_StopParty
+[     61178] Calling Party_StopParty() for partyId 0
+[     61178] Not uploading stats: no statWriteNeeded (cont 0)
+[     61178] Clearing migration data
+[     61178] Clearing migration data
+[     61178] Calling Party_StopParty() for partyId 1
+[     61178] Clearing migration data
+[     61178] Clearing migration data
+[     61178] Calling PartyHost_StartParty()
+[     61178] PartyHost_StartParty was called, calling Party_StopParty
+[     61178] Calling Party_StopParty() for partyId 1
+[     61178] Clearing migration data
+[     61178] Clearing migration data
+[     61184] Got our host key for our new party - xnkid (157.5.77.230...)
+[     61184] Registering xuid eafa892082727450 at slot 0 in a private slot - they have nat type 1.  That will give us 1 private slots used and 0 public slots used
+[     61184] Changing clientNum 0's address from type 0, ip 0.0.0.0, port 0, to type 2, ip 127.0.0.1, port 0
+[     61187] execing default_720p.cfg from fastfile
+[     74520] Not uploading stats: no statWriteNeeded (cont 0)
+[     78740] "xblive_rankedmatch" is: "0^7" default: "0^7"
+[     78740]   Domain is 0 or 1
+[     78740] "xblive_privatematch" is: "1^7" default: "1^7"
+[     78740]   Domain is 0 or 1
+[     78743] execing default_xboxlive.cfg from disk
+[     78782] CL_Live_StartPrivateParty() was called, calling Party_StopParty
+[     78782] Calling Party_StopParty() for partyId 0
+[     78782] Not uploading stats: no statWriteNeeded (cont 0)
+[     78782] Clearing migration data
+[     78782] Clearing migration data
+[     78783] execing default_xboxlive.cfg from disk
+[     78784] Unknown command "ui_enumeratesaved"
+[     78821] CL_Live_StartPrivateMatchHost() was called, calling Party_StopParty
+[     78821] Calling Party_StopParty() for partyId 0
+[     78821] Not uploading stats: no statWriteNeeded (cont 0)
+[     78821] Clearing migration data
+[     78821] Clearing migration data
+[     78821] Calling PartyHost_StartParty()
+[     78821] PartyHost_StartParty was called, calling Party_StopParty
+[     78821] Calling Party_StopParty() for partyId 0
+[     78821] Not uploading stats: no statWriteNeeded (cont 0)
+[     78821] Clearing migration data
+[     78821] Clearing migration data
+[     78821] We're going to be updating trueskill #1
+[     78821] Not uploading stats: no statWriteNeeded (cont 0)
+[     78821] Got our host key for our new party - xnkid (229.54.208.240...)
+[     78821] Registering xuid eafa892082727450 at slot 7 in a public slot - they have nat type 1.  That will give us 0 private slots used and 1 public slots used
+[     78821] Changing clientNum 7's address from type 0, ip 0.0.0.0, port 0, to type 2, ip 127.0.0.1, port 0
+[     78823] execing dvar_defaults.cfg from fastfile
+[     86492] Setting sv_maxclients to 18 in StartMatch()
+[     86495] Loading fastfile mp_afghan_load
+[     86678] CL_Disconnect called for local client 0
+[     86681] Not uploading stats: no statWriteNeeded (cont 0)
+[     86682] Using profile source local (l:0 c:1)
+[     86682] Successfully read stats data
+[     86772] ----- R_Init -----
+[     86960] Video memory for device: 736 MB.
+[     86960] Rounded video memory size: 512 MB.
+[     86960] Available DirectX texture memory: 3969 MB.
+[     86960] DirectX reports 512 MB of video memory and 3969 MB of available texture memory.
+[     86960] Using video memory size to cap used texture memory at 496 MB.
+[     86960] Using previously reported texture memory size of 496 MB.
+[     86960] Using reported available texture memory: 496 MB.
+[     86960] Texture detail is set automatically.
+[     86960] Using picmip 0 on most textures, 1 on normal maps, and 3 on specular maps
+[     87556] Unloaded fastfile iw4x_localized_english
+[     87556] Unloaded fastfile iw4x_ui_mp
+[     87556] Unloaded fastfile ui_mp
+[     87556] Unloaded fastfile localized_ui_mp
+[     87561] Loading fastfile mp_afghan
+[     87561] Loading fastfile iw4x_team_opforce_composite
+[     87561] Loading fastfile iw4x_team_socom_141_desert
+[     87561] Loading fastfile iw4x_localized_english
+[    117049] ------ Server Initialization ------
+[    117049] Server: mp_afghan
+[    120677] Current language: english
+[    120677] Current search path:
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\solids_iw4_ui_v3.iwd (110 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\remastered_bot_ai.iwd (123 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\redux.iwd (54 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2/mods/solids-iw4
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2/userraw
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_01.iwd (114 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_00.iwd (649 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2/iw4x
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc8_00.iwd (2070 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc7_00.iwd (829 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc6_00.iwd (711 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_01.iwd (196 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_00.iwd (1986 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_01.iwd (274 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_00.iwd (1186 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc3_00.iwd (1350 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_23.iwd (425 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_22.iwd (430 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_21.iwd (46 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_20.iwd (86 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_19.iwd (57 files)
+[    120677] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_18.iwd (61 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_17.iwd (125 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_16.iwd (171 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_15.iwd (198 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_14.iwd (406 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_13.iwd (63 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_12.iwd (31 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_11.iwd (297 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_10.iwd (556 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_09.iwd (716 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_08.iwd (886 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_07.iwd (782 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_06.iwd (481 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_05.iwd (952 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_04.iwd (1005 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_03.iwd (1437 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_02.iwd (1391 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_01.iwd (1272 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_00.iwd (1428 files)
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/main
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/main_shared
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/players
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/raw
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/raw_shared
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw_shared
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw07.iwd (860 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw06.iwd (1474 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw05.iwd (1635 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw04.iwd (2164 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw03.iwd (2741 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw02.iwd (2732 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw01.iwd (2524 files)
+[    120678]     localized assets iwd file for english
+[    120678] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw00.iwd (3013 files)
+[    120678]     localized assets iwd file for english
+[    120678] 
+File Handles:
+[    120678] handle 1: logs/console_mp.log
+[    120678] ----------------------
+[    120678] 80194 files in iwd files
+[    120785] ------- Game Initialization -------
+[    120785] gamename: IW4
+[    120785] gamedate: Jan 14 2010
+[    120793] Waiting for database...
+[    121140] Not logging to disk.
+[    121175] Loading script scripts/bots.gsc...
+[    122909] Script scripts/bots.gsc loaded successfully.
+[    122909] Finding script handle scripts/bots::init...
+[    122909] Script handle scripts/bots::init loaded successfully.
+[    122909] Loading script scripts/bots_menu.gsc...
+[    122918] Script scripts/bots_menu.gsc loaded successfully.
+[    122919] Finding script handle scripts/bots_menu::init...
+[    122919] Script handle scripts/bots_menu::init loaded successfully.
+[    122919] Loading script scripts/bots_wp_editor.gsc...
+[    122926] Script scripts/bots_wp_editor.gsc loaded successfully.
+[    122926] Finding script handle scripts/bots_wp_editor::init...
+[    122927] Script handle scripts/bots_wp_editor::init loaded successfully.
+[    122927] Loading script scripts/init.gsc...
+[    123174] Script scripts/init.gsc loaded successfully.
+[    123174] Finding script handle scripts/init::init...
+[    123174] Script handle scripts/init::init loaded successfully.
+[    123174] Loading script scripts/_aimassist.gsc...
+[    123175] Script scripts/_aimassist.gsc loaded successfully.
+[    123175] Finding script handle scripts/_aimassist::init...
+[    123176] Script handle scripts/_aimassist::init loaded successfully.
+[    123373] -----------------------------------
+[    124404] Attempting to read waypoints from waypoints/mp_afghan_wp.csv
+[    124529] Loaded 292 waypoints from csv.
+[    124533] Error getting remote version of Bot Warfare.
+[    124533] [Updater] ^7Updating mod from branch: live
+[    124533] [Updater] ^7Failed to retrieve manifest, aborting...
+[    130072] script runtime warning: potential infinite loop in script 5001 > 5000.
+[    130072] 
+@ 63657 (62981 - 74735)
+[    130072] in maps/mp/gametypes/_weapons.gsc (5.8% through the source)
+
+[    135097] script runtime warning: potential infinite loop in script 5024 > 5000.
+[    135097] 
+@ 63657 (62981 - 74735)
+[    135097] in maps/mp/gametypes/_weapons.gsc (5.8% through the source)
+
+[    135840] -----------------------------------
+[    138528] Going from CS_FREE to CS_CONNECTED for  (num 7 guid "eafa892082727450")
+[    138528] Setting client 7 NATTYPE to 1
+[    138528] Setting client 7 XNADDR to d401a8c00000000000007120000000000000000000000000000000000000000000000000
+[    138528] Setting client 7 XUID to eafa892082727450
+[    138568] Received packet 0 of stats data from clientNum 7
+[    138608] Received packet 1 of stats data from clientNum 7
+[    138646] Received packet 2 of stats data from clientNum 7
+[    138684] Received packet 3 of stats data from clientNum 7
+[    138724] Received packet 4 of stats data from clientNum 7
+[    138762] Received packet 5 of stats data from clientNum 7
+[    138802] Received packet 6 of stats data from clientNum 7
+[    142373] 0% config string match, 0% config string coverage.
+[    142374] Setting state to CA_LOADING in CL_DownloadsComplete
+[    142374] Setting state to CA_LOADING in CL_InitCGame
+[    142422] Warning: file ui_mp\quickmessage.menu, line 55: define PREPROC_SHADER_DRAW has too many parms
+[    142422] Menu load error: ui_mp\quickmessage.menu, line 55: end of file inside menu
+
+[    142422] Warning: file ui_mp\quickmessage.menu, line 56: define PREPROC_SHADER_DRAW has too many parms
+[    142866] Starting to back up world specular maps.
+[    142867] Finished backing up world specular maps.
+[    142905] About to sort world surfaces.
+[    142921] Finished sorting world surfaces.
+[    142921] Starting to back up world specular maps.
+[    142921] Finished backing up world specular maps.
+[    144262] Warning: file ui_mp/scriptmenus/quickcommands.menu, line 52: define PREPROC_SHADER_DRAW has too many parms
+[    144262] Menu load error: ui_mp/scriptmenus/quickcommands.menu, line 52: end of file inside menu
+
+[    144262] Warning: file ui_mp/scriptmenus/quickcommands.menu, line 53: define PREPROC_SHADER_DRAW has too many parms
+[    144296] Warning: file ui_mp/scriptmenus/quickstatements.menu, line 52: define PREPROC_SHADER_DRAW has too many parms
+[    144298] Menu load error: ui_mp/scriptmenus/quickstatements.menu, line 52: end of file inside menu
+
+[    144298] Warning: file ui_mp/scriptmenus/quickstatements.menu, line 53: define PREPROC_SHADER_DRAW has too many parms
+[    144372] CL_InitCGame:  2.00 seconds
+[    144372] Com_TouchMemory: 0 msec. Using sum: 1316192632
+[    144372] Hiding channel: gamenotify
+[    144372] Hiding channel: obituary
+[    144372] Adding channel: gamenotify
+[    144372] Adding channel: obituary
+[    144372] Hiding channel: boldgame
+[    144372] Adding channel: boldgame
+[    144372] Hiding channel: subtitle
+[    144372] Adding channel: subtitle
+[    144372] No channels added or hidden
+[    145145] recording to demos/auto_1653426807.dm_13.
+[    145303] Unloaded fastfile mp_afghan_load
+[    145308] Starting to disable world specular maps.
+[    145308] Finished disabling world specular maps.
+[    145326] About to sort world surfaces.
+[    145326] Starting to restore world specular maps.
+[    145326] Finished restoring world specular maps.
+[    145331] Finished sorting world surfaces.
+[    145331] Starting to back up world specular maps.
+[    145331] Finished backing up world specular maps.
+[    145331] Starting to disable world specular maps.
+[    145331] Finished disabling world specular maps.
+[    145332] Playing smoke grenades at time 6650
+[    152115] Could not find menu 'loadout_select_r'
+[    160872] Could not find menu 'loadout_select_r'
+[    255111] ]/tcl
+[    261466] ]/tle
+[    264697] ]/tlc
+[    267864] ]/tcl
+[    273373] ]/noclip
+[    273406] CheatsOk: cheats are disabled!
+[    280403] ]/sv_cheats 1
+[    280403] sv_cheats is write protected.
+[    291178] ]/developer 1
+[    301359] ]/sv_cheats 1
+[    301360] sv_cheats is write protected.
+[    302857] ]/sv_cheats 1
+[    302858] sv_cheats is write protected.
+[    304316] ]/sv_cheats 1
+[    304316] sv_cheats is write protected.
+[    317388] pair 'undefined' and 'specialty_bling' has unmatching types 'undefined' and 'string'
+[    317388] cannot cast undefined to bool
+[    317388] pair 'undefined' and 'specialty_onemanarmy' has unmatching types 'undefined' and 'string'
+[    317388] cannot cast undefined to bool
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to bool
+[    317388] pair 'undefined' and 'frag_grenade_mp' has unmatching types 'undefined' and 'string'
+[    317388] cannot cast undefined to bool
+[    317388] pair 'undefined' and 'throwingknife_mp' has unmatching types 'undefined' and 'string'
+[    317388] cannot cast undefined to bool
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to bool
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to string
+[    317388] cannot cast undefined to bool
+[    317389] pair 'undefined' and 'frag_grenade_mp' has unmatching types 'undefined' and 'string'
+[    317389] cannot cast undefined to bool
+[    317389] pair 'undefined' and 'throwingknife_mp' has unmatching types 'undefined' and 'string'
+[    317389] cannot cast undefined to bool
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to bool
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to bool
+[    317389] pair 'undefined' and 'frag_grenade_mp' has unmatching types 'undefined' and 'string'
+[    317389] cannot cast undefined to bool
+[    317389] pair 'undefined' and 'throwingknife_mp' has unmatching types 'undefined' and 'string'
+[    317389] cannot cast undefined to bool
+[    317389] cannot cast undefined to string
+[    317389] cannot cast undefined to bool
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to bool
+[    317391] pair 'undefined' and 'frag_grenade_mp' has unmatching types 'undefined' and 'string'
+[    317391] cannot cast undefined to bool
+[    317391] pair 'undefined' and 'throwingknife_mp' has unmatching types 'undefined' and 'string'
+[    317391] cannot cast undefined to bool
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to bool
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317391] cannot cast undefined to string
+[    317393] pair 'undefined' and '_mp' has unmatching types 'undefined' and 'string'
+[    317393] pair 'undefined' and 'flash_grenade' has unmatching types 'undefined' and 'string'
+[    317393] cannot cast undefined to bool
+[    317393] cannot cast undefined to string
+[    317393] pair 'undefined' and 'smoke_grenade' has unmatching types 'undefined' and 'string'
+[    317393] cannot cast undefined to bool
+[    317393] cannot cast undefined to string
+[    503419] ]/quit
+[    503419] quitting...
+[    503420] ----- CL_Shutdown -----
+[    503421] CL_Disconnect called for local client 0
+[    503422] execing archivedvars.cfg from disk
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadeIconHeight".
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadeIconWidth".
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadeIconOffset".
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadePointerHeight".
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadePointerWidth".
+[    503422] Forcing "seta" command to normal "Set" for dvar "cg_hudGrenadePointerPivot".
+[    503423] Stopped demo.
+[    503496] Saving lastPlayedTime of 1653427165.
+[    503496] Setting MP Completion to 1100 percent for controller #0.
+[    503542] Beginning stats upload for controller 0
+[    503560] Using profile source local (l:0 c:1)
+[    503560] Successfully read stats data
+[    503561] Could not find menu 'playerdataread'
+[    503561] -----------------------
+[    503561] ----- CL_ShutdownOnceForAllClients -----
+[    503639] -----------------------
+[    503639] ----- Server Shutdown -----
+[    503639] ==== ShutdownGame (1) ====
+[    503649] Going to CS_ZOMBIE from 5 for Soliderror due to EXE_DISCONNECTED
+[    503649] 7:Soliderror EXE_DISCONNECTED
+[    503725] ---------------------------
+[    504266] Unloaded fastfile iw4x_localized_english
+[    504266] Unloaded fastfile iw4x_team_socom_141_desert
+[    504268] Unloaded fastfile iw4x_team_opforce_composite
+[    504269] Unloaded fastfile mp_afghan
+[    504295] Unloaded fastfile mod
+[    504296] Unloaded fastfile iw4x_patch_mp
+[    504299] Unloaded fastfile localized_common_mp
+[    504300] Unloaded fastfile common_mp
+[    504328] Unloaded fastfile iw4x_code_post_gfx_mp
+[    504328] Unloaded fastfile patch_mp
+[    504329] Unloaded fastfile localized_code_post_gfx_mp
+[    504330] Unloaded fastfile code_post_gfx_mp
+[    504330] Unloaded fastfile patch_code_pre_gfx_mp
+[    504330] Unloaded fastfile localized_code_pre_gfx_mp
+[    504330] Unloaded fastfile code_pre_gfx_mp

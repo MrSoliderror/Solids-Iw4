@@ -1,0 +1,234 @@
+[      4642] '+ set fs_game "mods/Solids-Iw4"'
+[      4642] Build 0.7.2 latest May 10 2022 19:46:24. Logfile opened on Tue May 24 17:54:03 2022
+
+[      4642] Current language: english
+[      4642] Current search path:
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\solids_iw4_ui_v3.iwd (110 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\remastered_bot_ai.iwd (123 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\mods\solids-iw4\redux.iwd (54 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/mods/solids-iw4
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/userraw
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_01.iwd (114 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\iw4x\iw4x_00.iwd (649 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/iw4x
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc8_00.iwd (2070 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc7_00.iwd (829 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc6_00.iwd (711 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_01.iwd (196 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc5_00.iwd (1986 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_01.iwd (274 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc4_00.iwd (1186 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_dlc3_00.iwd (1350 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_23.iwd (425 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_22.iwd (430 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_21.iwd (46 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_20.iwd (86 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_19.iwd (57 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_18.iwd (61 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_17.iwd (125 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_16.iwd (171 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_15.iwd (198 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_14.iwd (406 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_13.iwd (63 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_12.iwd (31 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_11.iwd (297 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_10.iwd (556 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_09.iwd (716 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_08.iwd (886 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_07.iwd (782 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_06.iwd (481 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_05.iwd (952 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_04.iwd (1005 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_03.iwd (1437 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_02.iwd (1391 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_01.iwd (1272 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2\main\iw_00.iwd (1428 files)
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/main
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/main_shared
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/players
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/raw
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/raw_shared
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw
+[      4642] C:\Call of Duty\Call of Duty Modern Warfar 2/devraw_shared
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw07.iwd (860 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw06.iwd (1474 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw05.iwd (1635 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw04.iwd (2164 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw03.iwd (2741 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw02.iwd (2732 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw01.iwd (2524 files)
+[      4643]     localized assets iwd file for english
+[      4643] C:\Call of Duty\Call of Duty Modern Warfar 2\main\localized_english_iw00.iwd (3013 files)
+[      4643]     localized assets iwd file for english
+[      4643] 
+File Handles:
+[      4643] handle 1: logs/console_mp.log
+[      4643] ----------------------
+[      4643] 40097 files in iwd files
+[      4687] Adding channel: error
+[      4687] Adding channel: gamenotify
+[      4687] Adding channel: boldgame
+[      4687] Adding channel: subtitle
+[      4687] Adding channel: obituary
+[      4687] Adding channel: logfile_only
+[      4687] Adding channel: console_only
+[      4687] Adding channel: gfx
+[      4687] Adding channel: sound
+[      4687] Adding channel: files
+[      4687] Adding channel: devgui
+[      4687] Adding channel: profile
+[      4687] Adding channel: ui
+[      4687] Adding channel: client
+[      4687] Adding channel: server
+[      4687] Adding channel: system
+[      4687] Adding channel: playerweap
+[      4687] Adding channel: ai
+[      4687] Adding channel: anim
+[      4687] Adding channel: physics
+[      4687] Adding channel: fx
+[      4687] Adding channel: leaderboards
+[      4687] Adding channel: parserscript
+[      4687] Adding channel: script
+[      4687] Adding channel: network
+[      4687] No channels added or hidden
+[      4687] Adding channel: error
+[      4687] Adding channel: error
+[      4687] No channels added or hidden
+[      4687] Adding channel: gamenotify
+[      4687] Adding channel: obituary
+[      4687] No channels added or hidden
+[      4687] Adding channel: boldgame
+[      4687] No channels added or hidden
+[      4687] Adding channel: subtitle
+[      4687] No channels added or hidden
+[      4693] Loading fastfile code_pre_gfx_mp
+[      4693] Loading fastfile localized_code_pre_gfx_mp
+[      4693] Loading fastfile patch_code_pre_gfx_mp
+[      4758] execing default_mp.cfg from disk
+[      4758] execing default_mp_controls.cfg from disk
+[      4759] execing default_mp_controller.cfg from disk
+[      4759] No channels added or hidden
+[      4760] execing default_mp_gamesettings.cfg from disk
+[      4762] execing default_filter.cfg from disk
+[      4763] execing language.cfg from fastfile
+[      4764] execing iw4x_config.cfg from disk
+[      4767] Hiding channel: error
+[      4767] Hiding channel: gamenotify
+[      4767] Hiding channel: boldgame
+[      4767] Hiding channel: subtitle
+[      4767] Hiding channel: obituary
+[      4767] Hiding channel: logfile_only
+[      4767] Hiding channel: console_only
+[      4767] Hiding channel: gfx
+[      4767] Hiding channel: sound
+[      4767] Hiding channel: files
+[      4767] Hiding channel: devgui
+[      4767] Hiding channel: profile
+[      4767] Hiding channel: ui
+[      4767] Hiding channel: client
+[      4767] Hiding channel: server
+[      4767] Hiding channel: system
+[      4767] Hiding channel: playerweap
+[      4767] Hiding channel: ai
+[      4767] Hiding channel: anim
+[      4767] Hiding channel: physics
+[      4767] Hiding channel: fx
+[      4767] Hiding channel: leaderboards
+[      4767] Hiding channel: parserscript
+[      4767] Hiding channel: script
+[      4767] Hiding channel: network
+[      4767] No channels added or hidden
+[      4767] Adding channel: error
+[      4767] Adding channel: gamenotify
+[      4767] Adding channel: boldgame
+[      4767] Adding channel: subtitle
+[      4767] Adding channel: obituary
+[      4767] Adding channel: logfile_only
+[      4767] Adding channel: console_only
+[      4767] Adding channel: gfx
+[      4767] Adding channel: sound
+[      4767] Adding channel: files
+[      4767] Adding channel: devgui
+[      4767] Adding channel: profile
+[      4767] Adding channel: ui
+[      4767] Adding channel: client
+[      4767] Adding channel: server
+[      4767] Adding channel: system
+[      4767] Adding channel: playerweap
+[      4767] Adding channel: ai
+[      4767] Adding channel: anim
+[      4767] Adding channel: physics
+[      4767] Adding channel: fx
+[      4767] Adding channel: leaderboards
+[      4767] Adding channel: parserscript
+[      4767] Adding channel: script
+[      4767] Adding channel: network
+[   1346909] Parsing playlist 'playlists_default.info'...
+[   1346922] CPU vendor is "AuthenticAMD"
+[   1346922] CPU name is "AMD A10-5745M APU with Radeon(tm) HD Graphics  "
+[   1346922] 4 logical CPUs reported
+[   1346922] 4 physical CPUs detected
+[   1346922] Measured CPU speed is 2.10 GHz
+[   1346922] Total CPU performance is estimated as 10.63 GHz
+[   1346922] System memory is 2048 MB (capped at 2 GB)
+[   1346922] Video card is "AMD Radeon(TM) HD 8610G"
+[   1346922] Streaming SIMD Extensions (SSE) supported
+[   1346922] 
+[   1346953] Winsock Initialized
+[   1346953] Opening IP socket: localhost:28960
+[   1347687] Hostname: DESKTOP-D17HFLU
+[   1347687] IP: 192.168.1.212
+[   1347688] UPNP: Testing device 'urn:schemas-upnp-org:device:InternetGatewayDevice:1' by sending packet to 239.255.255.250:1900
+[   1347688] UPNP: Testing device 'urn:schemas-upnp-org:service:WANIPConnection:1' by sending packet to 239.255.255.250:1900
+[   1347688] UPNP: Testing device 'urn:schemas-upnp-org:service:WANPPPConnection:1' by sending packet to 239.255.255.250:1900
+[   1347688] UPNP: Testing device 'upnp:rootdevice' by sending packet to 239.255.255.250:1900
+[   1347689] ----- Initializing Renderer ----
+[   1347797] Cmd_AddCommand: log_add already defined
+[   1347798] Cmd_AddCommand: log_del already defined
+[   1347799] Cmd_AddCommand: log_list already defined
+[   1347799] Cmd_AddCommand: g_log_add already defined
+[   1347800] Cmd_AddCommand: g_log_del already defined
+[   1347801] Cmd_AddCommand: g_log_list already defined
+[   1347802] Cmd_AddCommand: muteClient already defined
+[   1347803] Cmd_AddCommand: unmute already defined
+[   1347811] execing ragdoll.cfg from fastfile
+[   1347813] ----- Client Initialization -----
+[   1347828] ----- Client Initialization Complete -----
+[   1347852] Attempting 44 kHz 16 bit [Windows default] sound
+[   1348259] UPNP: Got a response from a device!
+[   1348259] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: upnp:rootdevice
+USN: uuid:00000000-0000-0000-0000-000000000000::upnp:rootdevice
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+	èäxwÀEDû- ­w!u`Åþÿÿÿðú-,nwŒ'
+[   1348259] UPNP: Got a response from a device!
+[   1348259] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=120
+ST: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:00000000-0000-0000-0000-000000000000::urn:schemas-upnp-org:service:WANPPPConnection:1
+EXT:
+SERVER: Ubuntu/trusty UPnP/1.1 MiniUPnPd/2.1
+LOCATION: http://192.168.1.1:43460/rootDesc.xml
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1653246934
+BOOTID.UPNP.ORG: 1653246934
+CONFIGID.UPNP.ORG: 1337
+
+'
+[   1348259] UPNP: Got a response from a device!
+[   1348259] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1
