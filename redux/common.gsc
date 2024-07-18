@@ -108,8 +108,7 @@ spawn_message()
 
     if ( !self.spawn_message )
     {
-        self iPrintLn( ">>^3 Solids Test Mod" );
-        self iPrintLn( ">>^3 This is based off auzzie mod!" );
+        self iPrintLn( ">>^3 Solids Iw4 Alpha V3" );
         self.spawn_message = true;
     }
 }
